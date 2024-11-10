@@ -1,0 +1,340 @@
+{"file_name": "317.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "303.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "288.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "289.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "302.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "316.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "300.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "314.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "315.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "301.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "305.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "311.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "310.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "304.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "312.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "306.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "299.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "298.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "307.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "313.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "322.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "295.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "294.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "309.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "321.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "296.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "282.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "283.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "297.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "320.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "308.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "318.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "293.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "287.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "286.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "292.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "319.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "284.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "290.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "291.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "285.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "239.png", "objects": {"bbox": [[295, 238, 520, 105], [484, 697, 269, 105], [884, 663, 99, 112]], "categories": [1, 1, 1]}}
+{"file_name": "238.png", "objects": {"bbox": [[211, 236, 532, 114], [711, 660, 140, 161], [70, 436, 118, 247]], "categories": [1, 1, 1]}}
+{"file_name": "263.png", "objects": {"bbox": [[503, 708, 255, 87]], "categories": [1]}}
+{"file_name": "277.png", "objects": {"bbox": [[1342, 462, 133, 105]], "categories": [1]}}
+{"file_name": "276.png", "objects": {"bbox": [[1075, 443, 131, 111]], "categories": [1]}}
+{"file_name": "262.png", "objects": {"bbox": [[1457, 670, 106, 152]], "categories": [1]}}
+{"file_name": "248.png", "objects": {"bbox": [[1335, 660, 133, 149], [117, 388, 122, 108]], "categories": [1, 1]}}
+{"file_name": "274.png", "objects": {"bbox": [[287, 425, 136, 98], [1439, 471, 109, 105]], "categories": [1, 1]}}
+{"file_name": "260.png", "objects": {"bbox": [[1328, 618, 161, 121], [528, 603, 98, 78]], "categories": [1, 1]}}
+{"file_name": "261.png", "objects": {"bbox": [[417, 647, 116, 142], [1333, 605, 122, 94]], "categories": [1, 1]}}
+{"file_name": "275.png", "objects": {"bbox": [[788, 433, 113, 100]], "categories": [1]}}
+{"file_name": "249.png", "objects": {"bbox": [[419, 454, 115, 90], [811, 438, 100, 76], [1634, 412, 111, 110]], "categories": [1, 1, 1]}}
+{"file_name": "271.png", "objects": {"bbox": [[533, 626, 191, 176], [1551, 565, 158, 127]], "categories": [1, 1]}}
+{"file_name": "265.png", "objects": {"bbox": [[185, 457, 156, 125], [484, 251, 115, 92], [105, 255, 248, 87]], "categories": [1, 1, 1]}}
+{"file_name": "259.png", "objects": {"bbox": [[150, 584, 110, 97], [967, 631, 148, 101], [1453, 415, 390, 396]], "categories": [1, 1, 1]}}
+{"file_name": "258.png", "objects": {"bbox": [[495, 620, 132, 116], [996, 411, 428, 398]], "categories": [1, 1]}}
+{"file_name": "264.png", "objects": {"bbox": [[1303, 702, 300, 130], [93, 244, 221, 156]], "categories": [1, 1]}}
+{"file_name": "270.png", "objects": {"bbox": [[709, 406, 153, 141]], "categories": [1]}}
+{"file_name": "266.png", "objects": {"bbox": [[617, 416, 113, 173], [727, 276, 101, 66], [370, 521, 154, 132], [109, 267, 260, 87]], "categories": [1, 1, 1, 1]}}
+{"file_name": "272.png", "objects": {"bbox": [[206, 423, 122, 102], [1406, 679, 167, 129]], "categories": [1, 1]}}
+{"file_name": "273.png", "objects": {"bbox": [[1044, 457, 146, 88]], "categories": [1]}}
+{"file_name": "267.png", "objects": {"bbox": [[1043, 445, 170, 149], [858, 546, 112, 89], [796, 263, 79, 86], [454, 249, 255, 108]], "categories": [1, 1, 1, 1]}}
+{"file_name": "242.png", "objects": {"bbox": [[1568, 277, 243, 104], [1604, 634, 146, 99]], "categories": [1, 1]}}
+{"file_name": "256.png", "objects": {"bbox": [[1649, 717, 157, 110]], "categories": [1]}}
+{"file_name": "281.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "280.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "257.png", "objects": {"bbox": [[139, 379, 404, 420]], "categories": [1]}}
+{"file_name": "243.png", "objects": {"bbox": [[595, 484, 153, 80]], "categories": [1]}}
+{"file_name": "269.png", "objects": {"bbox": [[161, 377, 172, 123]], "categories": [1]}}
+{"file_name": "255.png", "objects": {"bbox": [[1402, 687, 187, 148]], "categories": [1]}}
+{"file_name": "241.png", "objects": {"bbox": [[914, 523, 174, 127], [1377, 244, 262, 135], [256, 359, 184, 137]], "categories": [1, 1, 1]}}
+{"file_name": "240.png", "objects": {"bbox": [[98, 505, 144, 122], [264, 268, 278, 228], [975, 249, 548, 121]], "categories": [1, 1, 1]}}
+{"file_name": "254.png", "objects": {"bbox": [[1271, 716, 125, 115]], "categories": [1]}}
+{"file_name": "268.png", "objects": {"bbox": [[1367, 282, 71, 84]], "categories": [1]}}
+{"file_name": "250.png", "objects": {"bbox": [[989, 442, 104, 80], [600, 451, 137, 113], [169, 491, 161, 132]], "categories": [1, 1, 1]}}
+{"file_name": "244.png", "objects": {"bbox": [[309, 568, 107, 94], [895, 473, 161, 120]], "categories": [1, 1]}}
+{"file_name": "278.png", "objects": {"bbox": [[1541, 469, 133, 94]], "categories": [1]}}
+{"file_name": "279.png", "objects": {"bbox": [], "categories": []}}
+{"file_name": "245.png", "objects": {"bbox": [[1140, 471, 143, 112], [563, 574, 121, 98]], "categories": [1, 1]}}
+{"file_name": "251.png", "objects": {"bbox": [[184, 685, 105, 113], [670, 487, 175, 147], [1099, 474, 122, 101], [1478, 452, 155, 95]], "categories": [1, 1, 1, 1]}}
+{"file_name": "247.png", "objects": {"bbox": [[1156, 658, 139, 159]], "categories": [1]}}
+{"file_name": "253.png", "objects": {"bbox": [[1019, 697, 148, 117], [1515, 543, 147, 112]], "categories": [1, 1]}}
+{"file_name": "252.png", "objects": {"bbox": [[485, 699, 137, 113], [991, 491, 160, 150], [1423, 462, 148, 153]], "categories": [1, 1, 1]}}
+{"file_name": "246.png", "objects": {"bbox": [[1013, 574, 109, 127], [1513, 614, 167, 148]], "categories": [1, 1]}}
+{"file_name": "235.png", "objects": {"bbox": [[143, 241, 517, 105]], "categories": [1]}}
+{"file_name": "236.png", "objects": {"bbox": [[216, 487, 113, 128], [228, 244, 517, 113]], "categories": [1, 1]}}
+{"file_name": "237.png", "objects": {"bbox": [[245, 233, 510, 131], [719, 668, 137, 148]], "categories": [1, 1]}}
+{"file_name": "228.png", "objects": {"bbox": [[96, 675, 231, 129], [792, 223, 278, 228], [1168, 420, 120, 151], [1416, 259, 180, 123]], "categories": [2, 2, 2, 2]}}
+{"file_name": "200.png", "objects": {"bbox": [[260, 229, 353, 353], [755, 238, 202, 166], [1347, 250, 254, 129]], "categories": [2, 2, 2]}}
+{"file_name": "214.png", "objects": {"bbox": [[508, 516, 145, 118]], "categories": [2]}}
+{"file_name": "215.png", "objects": {"bbox": [[702, 496, 182, 151]], "categories": [2]}}
+{"file_name": "201.png", "objects": {"bbox": [[530, 251, 353, 316], [1008, 253, 207, 149]], "categories": [2, 2]}}
+{"file_name": "229.png", "objects": {"bbox": [[623, 667, 247, 143], [1348, 281, 222, 171], [1690, 455, 141, 105]], "categories": [2, 2, 2]}}
+{"file_name": "217.png", "objects": {"bbox": [[249, 354, 324, 204]], "categories": [2]}}
+{"file_name": "203.png", "objects": {"bbox": [[185, 209, 280, 152]], "categories": [2]}}
+{"file_name": "202.png", "objects": {"bbox": [[483, 242, 331, 135], [1206, 253, 336, 310]], "categories": [2, 2]}}
+{"file_name": "216.png", "objects": {"bbox": [[1576, 536, 155, 120]], "categories": [2]}}
+{"file_name": "212.png", "objects": {"bbox": [[1108, 442, 167, 111], [1043, 706, 268, 105], [500, 248, 144, 192]], "categories": [2, 2, 2]}}
+{"file_name": "206.png", "objects": {"bbox": [[267, 409, 88, 263], [357, 411, 96, 266], [1113, 491, 141, 108]], "categories": [2, 2, 2]}}
+{"file_name": "207.png", "objects": {"bbox": [[180, 424, 98, 179], [800, 429, 146, 249], [946, 429, 91, 264], [1695, 496, 126, 112]], "categories": [2, 2, 2, 2]}}
+{"file_name": "213.png", "objects": {"bbox": [[1208, 239, 186, 214]], "categories": [2]}}
+{"file_name": "198.png", "objects": {"bbox": [[288, 234, 301, 139]], "categories": [2]}}
+{"file_name": "205.png", "objects": {"bbox": [[1065, 643, 281, 173], [1468, 251, 321, 149]], "categories": [2, 2]}}
+{"file_name": "211.png", "objects": {"bbox": [[557, 439, 144, 115], [486, 670, 306, 154], [1343, 673, 229, 149]], "categories": [2, 2, 2]}}
+{"file_name": "210.png", "objects": {"bbox": [[262, 388, 192, 143], [228, 695, 293, 110], [1084, 699, 218, 113]], "categories": [2, 2, 2]}}
+{"file_name": "204.png", "objects": {"bbox": [[768, 209, 335, 169], [346, 675, 306, 112]], "categories": [2, 2]}}
+{"file_name": "199.png", "objects": {"bbox": [[269, 215, 256, 176], [887, 239, 266, 144]], "categories": [2, 2]}}
+{"file_name": "209.png", "objects": {"bbox": [[120, 679, 200, 123]], "categories": [2]}}
+{"file_name": "221.png", "objects": {"bbox": [[867, 684, 306, 133], [95, 262, 319, 163], [1402, 236, 357, 147]], "categories": [2, 2, 2]}}
+{"file_name": "234.png", "objects": {"bbox": [[956, 412, 158, 156]], "categories": [2]}}
+{"file_name": "220.png", "objects": {"bbox": [[673, 235, 371, 136], [1327, 251, 277, 177], [93, 456, 143, 159]], "categories": [2, 2, 2]}}
+{"file_name": "208.png", "objects": {"bbox": [[257, 263, 140, 154], [901, 432, 117, 149], [1521, 446, 154, 235], [1675, 447, 84, 274]], "categories": [2, 2, 2, 2]}}
+{"file_name": "197.png", "objects": {"bbox": [[1184, 275, 209, 328], [1402, 258, 325, 169]], "categories": [2, 2]}}
+{"file_name": "222.png", "objects": {"bbox": [[1011, 204, 356, 283], [104, 461, 211, 258]], "categories": [2, 2]}}
+{"file_name": "223.png", "objects": {"bbox": [[246, 249, 295, 113], [935, 485, 224, 242]], "categories": [2, 2]}}
+{"file_name": "196.png", "objects": {"bbox": [[1074, 278, 238, 319], [1303, 217, 336, 208]], "categories": [2, 2]}}
+{"file_name": "233.png", "objects": {"bbox": [[745, 517, 160, 130], [1256, 211, 166, 209]], "categories": [2, 2]}}
+{"file_name": "227.png", "objects": {"bbox": [[825, 230, 258, 153], [491, 413, 146, 134], [141, 243, 213, 181]], "categories": [2, 2, 2]}}
+{"file_name": "226.png", "objects": {"bbox": [[98, 236, 235, 120], [1404, 704, 242, 107]], "categories": [2, 2]}}
+{"file_name": "232.png", "objects": {"bbox": [[543, 253, 129, 148], [1119, 256, 183, 123]], "categories": [2, 2]}}
+{"file_name": "224.png", "objects": {"bbox": [[577, 383, 139, 121], [73, 358, 196, 383], [1330, 236, 335, 134]], "categories": [2, 2, 2]}}
+{"file_name": "230.png", "objects": {"bbox": [[1242, 692, 295, 120]], "categories": [2]}}
+{"file_name": "218.png", "objects": {"bbox": [[1196, 282, 297, 218]], "categories": [2]}}
+{"file_name": "219.png", "objects": {"bbox": [[430, 227, 410, 142], [886, 236, 277, 178]], "categories": [2, 2]}}
+{"file_name": "231.png", "objects": {"bbox": [[450, 231, 216, 149]], "categories": [2]}}
+{"file_name": "225.png", "objects": {"bbox": [[932, 661, 264, 154]], "categories": [2]}}
+{"file_name": "176.png", "objects": {"bbox": [[141, 229, 362, 236], [1330, 253, 256, 311]], "categories": [3, 3]}}
+{"file_name": "162.png", "objects": {"bbox": [[1128, 655, 370, 176], [1528, 433, 185, 161]], "categories": [3, 3]}}
+{"file_name": "189.png", "objects": {"bbox": [[831, 662, 241, 144], [328, 439, 123, 73], [315, 213, 225, 156]], "categories": [3, 3, 3]}}
+{"file_name": "188.png", "objects": {"bbox": [[78, 270, 217, 127], [89, 445, 108, 61], [553, 627, 262, 186]], "categories": [3, 3, 3]}}
+{"file_name": "163.png", "objects": {"bbox": [[1349, 681, 369, 156]], "categories": [3]}}
+{"file_name": "177.png", "objects": {"bbox": [[785, 659, 346, 191], [818, 245, 341, 215]], "categories": [3, 3]}}
+{"file_name": "149.png", "objects": {"bbox": [[833, 469, 163, 125], [300, 644, 177, 163], [1576, 274, 184, 171]], "categories": [3, 3, 3]}}
+{"file_name": "161.png", "objects": {"bbox": [[1060, 381, 223, 221], [689, 506, 303, 261]], "categories": [3, 3]}}
+{"file_name": "175.png", "objects": {"bbox": [[1107, 277, 231, 320]], "categories": [3]}}
+{"file_name": "174.png", "objects": {"bbox": [[890, 250, 301, 292], [174, 235, 196, 327]], "categories": [3, 3]}}
+{"file_name": "160.png", "objects": {"bbox": [[766, 375, 237, 223], [1309, 236, 328, 212]], "categories": [3, 3]}}
+{"file_name": "148.png", "objects": {"bbox": [[920, 268, 247, 188], [140, 476, 167, 114], [1485, 290, 245, 246]], "categories": [3, 3, 3]}}
+{"file_name": "164.png", "objects": {"bbox": [[629, 659, 376, 171]], "categories": [3]}}
+{"file_name": "170.png", "objects": {"bbox": [[120, 241, 299, 216]], "categories": [3]}}
+{"file_name": "158.png", "objects": {"bbox": [[202, 226, 348, 137], [920, 217, 308, 198]], "categories": [3, 3]}}
+{"file_name": "159.png", "objects": {"bbox": [[659, 239, 301, 178], [163, 420, 173, 156], [1352, 242, 327, 174]], "categories": [3, 3, 3]}}
+{"file_name": "171.png", "objects": {"bbox": [[800, 254, 281, 248]], "categories": [3]}}
+{"file_name": "165.png", "objects": {"bbox": [[892, 661, 332, 158], [103, 235, 343, 164]], "categories": [3, 3]}}
+{"file_name": "173.png", "objects": {"bbox": [[541, 237, 251, 257]], "categories": [3]}}
+{"file_name": "167.png", "objects": {"bbox": [[235, 235, 309, 151], [931, 216, 411, 178]], "categories": [3, 3]}}
+{"file_name": "166.png", "objects": {"bbox": [[601, 222, 323, 164], [98, 284, 275, 279], [1381, 688, 372, 112]], "categories": [3, 3, 3]}}
+{"file_name": "172.png", "objects": {"bbox": [[1287, 239, 305, 273]], "categories": [3]}}
+{"file_name": "129.png", "objects": {"bbox": [[322, 250, 278, 165]], "categories": [3]}}
+{"file_name": "138.png", "objects": {"bbox": [[1020, 381, 283, 182], [104, 222, 320, 188]], "categories": [3, 3]}}
+{"file_name": "139.png", "objects": {"bbox": [[763, 251, 330, 146], [1637, 350, 205, 188]], "categories": [3, 3]}}
+{"file_name": "134.png", "objects": {"bbox": [[120, 324, 223, 176]], "categories": [3]}}
+{"file_name": "135.png", "objects": {"bbox": [[497, 350, 270, 169]], "categories": [3]}}
+{"file_name": "137.png", "objects": {"bbox": [[662, 381, 217, 183], [1653, 321, 198, 150]], "categories": [3, 3]}}
+{"file_name": "136.png", "objects": {"bbox": [[1111, 290, 231, 184], [155, 393, 198, 178]], "categories": [3, 3]}}
+{"file_name": "132.png", "objects": {"bbox": [[898, 247, 244, 271], [1300, 256, 310, 128]], "categories": [3, 3]}}
+{"file_name": "133.png", "objects": {"bbox": [[1453, 258, 298, 288]], "categories": [3]}}
+{"file_name": "131.png", "objects": {"bbox": [[1212, 265, 339, 156]], "categories": [3]}}
+{"file_name": "130.png", "objects": {"bbox": [[1164, 290, 292, 131], [312, 236, 387, 119]], "categories": [3, 3]}}
+{"file_name": "157.png", "objects": {"bbox": [[529, 251, 290, 136]], "categories": [3]}}
+{"file_name": "143.png", "objects": {"bbox": [[798, 258, 239, 154], [94, 380, 137, 149], [1476, 488, 184, 139]], "categories": [3, 3, 3]}}
+{"file_name": "194.png", "objects": {"bbox": [[1452, 377, 158, 111], [1499, 499, 154, 107]], "categories": [3, 3]}}
+{"file_name": "180.png", "objects": {"bbox": [[1068, 220, 323, 230], [219, 234, 291, 159]], "categories": [3, 3]}}
+{"file_name": "181.png", "objects": {"bbox": [[547, 229, 262, 145], [1389, 231, 338, 184]], "categories": [3, 3]}}
+{"file_name": "195.png", "objects": {"bbox": [[1629, 375, 151, 114], [1678, 505, 122, 121]], "categories": [3, 3]}}
+{"file_name": "142.png", "objects": {"bbox": [[874, 483, 161, 146], [166, 250, 299, 128]], "categories": [3, 3]}}
+{"file_name": "156.png", "objects": {"bbox": [[329, 269, 316, 146], [1397, 673, 360, 203]], "categories": [3, 3]}}
+{"file_name": "168.png", "objects": {"bbox": [[735, 219, 288, 181], [1458, 240, 347, 184]], "categories": [3, 3]}}
+{"file_name": "140.png", "objects": {"bbox": [[125, 476, 225, 141]], "categories": [3]}}
+{"file_name": "154.png", "objects": {"bbox": [[657, 518, 217, 130]], "categories": [3]}}
+{"file_name": "183.png", "objects": {"bbox": [[959, 555, 146, 147], [857, 651, 161, 165], [1221, 648, 137, 185]], "categories": [3, 3, 3]}}
+{"file_name": "182.png", "objects": {"bbox": [[809, 423, 211, 155], [615, 625, 144, 161], [948, 630, 155, 158]], "categories": [3, 3, 3]}}
+{"file_name": "155.png", "objects": {"bbox": [[148, 679, 347, 134]], "categories": [3]}}
+{"file_name": "141.png", "objects": {"bbox": [[607, 479, 231, 131]], "categories": [3]}}
+{"file_name": "169.png", "objects": {"bbox": [[1100, 223, 314, 193]], "categories": [3]}}
+{"file_name": "145.png", "objects": {"bbox": [[1576, 407, 169, 144], [1270, 689, 240, 134]], "categories": [3, 3]}}
+{"file_name": "151.png", "objects": {"bbox": [[742, 401, 166, 158], [1402, 676, 161, 149], [1675, 445, 155, 152]], "categories": [3, 3, 3]}}
+{"file_name": "179.png", "objects": {"bbox": [[639, 221, 326, 177]], "categories": [3]}}
+{"file_name": "186.png", "objects": {"bbox": [[405, 593, 246, 189]], "categories": [3]}}
+{"file_name": "192.png", "objects": {"bbox": [[891, 338, 158, 140], [920, 483, 165, 119], [1470, 440, 158, 157]], "categories": [3, 3, 3]}}
+{"file_name": "193.png", "objects": {"bbox": [[1262, 381, 149, 107], [1290, 490, 138, 118]], "categories": [3, 3]}}
+{"file_name": "187.png", "objects": {"bbox": [[791, 589, 246, 213]], "categories": [3]}}
+{"file_name": "178.png", "objects": {"bbox": [[278, 230, 307, 166], [1514, 506, 327, 203], [1425, 677, 378, 142]], "categories": [3, 3, 3]}}
+{"file_name": "150.png", "objects": {"bbox": [[168, 415, 172, 131], [1115, 456, 150, 131], [828, 600, 173, 194]], "categories": [3, 3, 3]}}
+{"file_name": "144.png", "objects": {"bbox": [[669, 353, 178, 233], [436, 679, 253, 115], [1421, 255, 244, 158]], "categories": [3, 3, 3]}}
+{"file_name": "152.png", "objects": {"bbox": [[1374, 425, 172, 118]], "categories": [3]}}
+{"file_name": "146.png", "objects": {"bbox": [[545, 255, 284, 253], [97, 287, 174, 163]], "categories": [3, 3]}}
+{"file_name": "191.png", "objects": {"bbox": [[497, 345, 146, 123], [522, 467, 129, 133], [1055, 450, 146, 140]], "categories": [3, 3, 3]}}
+{"file_name": "185.png", "objects": {"bbox": [[194, 564, 190, 218]], "categories": [3]}}
+{"file_name": "184.png", "objects": {"bbox": [[1629, 555, 164, 150], [1727, 695, 103, 140], [1572, 689, 140, 129]], "categories": [3, 3, 3]}}
+{"file_name": "190.png", "objects": {"bbox": [[747, 427, 183, 164], [191, 358, 148, 98], [222, 453, 142, 134]], "categories": [3, 3, 3]}}
+{"file_name": "147.png", "objects": {"bbox": [[449, 279, 181, 183], [900, 250, 284, 264]], "categories": [3, 3]}}
+{"file_name": "153.png", "objects": {"bbox": [[230, 461, 170, 144]], "categories": [3]}}
+{"file_name": "115.png", "objects": {"bbox": [[700, 348, 293, 154], [141, 620, 268, 208], [1593, 663, 237, 160]], "categories": [4, 4, 4]}}
+{"file_name": "114.png", "objects": {"bbox": [[130, 338, 288, 210], [1001, 655, 235, 168], [1339, 263, 346, 168]], "categories": [4, 4, 4]}}
+{"file_name": "128.png", "objects": {"bbox": [[1509, 239, 303, 188]], "categories": [4]}}
+{"file_name": "102.png", "objects": {"bbox": [[152, 350, 252, 264]], "categories": [4]}}
+{"file_name": "116.png", "objects": {"bbox": [[391, 638, 311, 194], [957, 349, 336, 157]], "categories": [4, 4]}}
+{"file_name": "117.png", "objects": {"bbox": [[107, 590, 254, 194], [1463, 661, 300, 171]], "categories": [4, 4]}}
+{"file_name": "103.png", "objects": {"bbox": [[912, 356, 317, 245], [176, 237, 307, 173]], "categories": [4, 4]}}
+{"file_name": "107.png", "objects": {"bbox": [[634, 667, 316, 130]], "categories": [4]}}
+{"file_name": "113.png", "objects": {"bbox": [[353, 619, 292, 187], [709, 265, 370, 174], [1596, 254, 149, 266]], "categories": [4, 4, 4]}}
+{"file_name": "112.png", "objects": {"bbox": [[1028, 259, 201, 292], [175, 250, 324, 171]], "categories": [4, 4]}}
+{"file_name": "106.png", "objects": {"bbox": [[192, 373, 253, 290], [1446, 237, 316, 250]], "categories": [4, 4]}}
+{"file_name": "110.png", "objects": {"bbox": [[1199, 660, 270, 148]], "categories": [4]}}
+{"file_name": "104.png", "objects": {"bbox": [[1427, 349, 298, 246], [647, 253, 292, 141], [78, 408, 218, 193]], "categories": [4, 4, 4]}}
+{"file_name": "105.png", "objects": {"bbox": [[310, 356, 266, 235], [889, 249, 305, 154]], "categories": [4, 4]}}
+{"file_name": "111.png", "objects": {"bbox": [[339, 240, 259, 219]], "categories": [4]}}
+{"file_name": "108.png", "objects": {"bbox": [[268, 426, 202, 237]], "categories": [4]}}
+{"file_name": "120.png", "objects": {"bbox": [[242, 239, 287, 199], [1476, 346, 295, 165]], "categories": [4, 4]}}
+{"file_name": "121.png", "objects": {"bbox": [[788, 250, 299, 163]], "categories": [4]}}
+{"file_name": "109.png", "objects": {"bbox": [[778, 661, 306, 165]], "categories": [4]}}
+{"file_name": "123.png", "objects": {"bbox": [[482, 402, 228, 235]], "categories": [4]}}
+{"file_name": "122.png", "objects": {"bbox": [[73, 386, 185, 256], [1513, 271, 301, 142]], "categories": [4, 4]}}
+{"file_name": "126.png", "objects": {"bbox": [[808, 242, 293, 172], [1611, 274, 207, 186]], "categories": [4, 4]}}
+{"file_name": "127.png", "objects": {"bbox": [[1133, 235, 277, 183]], "categories": [4]}}
+{"file_name": "125.png", "objects": {"bbox": [[557, 229, 276, 174], [1314, 234, 255, 203]], "categories": [4, 4]}}
+{"file_name": "119.png", "objects": {"bbox": [[595, 324, 286, 206]], "categories": [4]}}
+{"file_name": "118.png", "objects": {"bbox": [[1168, 618, 266, 186]], "categories": [4]}}
+{"file_name": "124.png", "objects": {"bbox": [[710, 227, 269, 179], [1390, 382, 242, 265]], "categories": [4, 4]}}
+{"file_name": "88.png", "objects": {"bbox": [[379, 245, 832, 238]], "categories": [6]}}
+{"file_name": "77.png", "objects": {"bbox": [[1095, 245, 361, 307]], "categories": [6]}}
+{"file_name": "76.png", "objects": {"bbox": [[183, 223, 368, 364], [1234, 285, 563, 404]], "categories": [6, 6]}}
+{"file_name": "89.png", "objects": {"bbox": [[758, 242, 785, 254]], "categories": [6]}}
+{"file_name": "74.png", "objects": {"bbox": [[137, 299, 772, 433]], "categories": [6]}}
+{"file_name": "75.png", "objects": {"bbox": [[835, 298, 733, 438]], "categories": [6]}}
+{"file_name": "65.png", "objects": {"bbox": [[1028, 358, 339, 340], [161, 288, 781, 252]], "categories": [6, 6]}}
+{"file_name": "71.png", "objects": {"bbox": [[490, 349, 260, 194], [1330, 286, 248, 296]], "categories": [6, 6]}}
+{"file_name": "70.png", "objects": {"bbox": [[738, 254, 229, 309], [1529, 594, 307, 219]], "categories": [6, 6]}}
+{"file_name": "64.png", "objects": {"bbox": [[467, 370, 415, 313]], "categories": [6]}}
+{"file_name": "99.png", "objects": {"bbox": [[95, 253, 288, 369]], "categories": [6]}}
+{"file_name": "72.png", "objects": {"bbox": [[854, 359, 221, 190], [291, 383, 219, 202]], "categories": [6, 6]}}
+{"file_name": "66.png", "objects": {"bbox": [[718, 288, 829, 209]], "categories": [6]}}
+{"file_name": "67.png", "objects": {"bbox": [[1182, 273, 619, 279], [136, 591, 395, 210]], "categories": [6, 6]}}
+{"file_name": "73.png", "objects": {"bbox": [[784, 367, 237, 208], [1364, 363, 237, 195]], "categories": [6, 6]}}
+{"file_name": "98.png", "objects": {"bbox": [[866, 344, 803, 225]], "categories": [6]}}
+{"file_name": "101.png", "objects": {"bbox": [[1222, 261, 336, 356]], "categories": [6]}}
+{"file_name": "100.png", "objects": {"bbox": [[856, 256, 298, 343]], "categories": [6]}}
+{"file_name": "95.png", "objects": {"bbox": [[107, 392, 499, 150]], "categories": [6]}}
+{"file_name": "81.png", "objects": {"bbox": [[1088, 409, 259, 199], [808, 337, 231, 286]], "categories": [6, 6]}}
+{"file_name": "80.png", "objects": {"bbox": [[495, 412, 223, 190], [1194, 270, 295, 397], [196, 352, 248, 280]], "categories": [6, 6, 6]}}
+{"file_name": "94.png", "objects": {"bbox": [[639, 283, 396, 311]], "categories": [6]}}
+{"file_name": "82.png", "objects": {"bbox": [[1098, 329, 220, 307], [1406, 413, 230, 190], [212, 427, 249, 179]], "categories": [6, 6, 6]}}
+{"file_name": "96.png", "objects": {"bbox": [[169, 341, 822, 222]], "categories": [6]}}
+{"file_name": "69.png", "objects": {"bbox": [[970, 589, 403, 214], [160, 273, 250, 288]], "categories": [6, 6]}}
+{"file_name": "68.png", "objects": {"bbox": [[643, 600, 394, 199]], "categories": [6]}}
+{"file_name": "97.png", "objects": {"bbox": [[652, 339, 822, 216]], "categories": [6]}}
+{"file_name": "83.png", "objects": {"bbox": [[543, 411, 230, 198], [1428, 344, 220, 280]], "categories": [6, 6]}}
+{"file_name": "87.png", "objects": {"bbox": [[90, 272, 687, 225]], "categories": [6]}}
+{"file_name": "93.png", "objects": {"bbox": [[228, 243, 372, 314], [1469, 238, 321, 378]], "categories": [6, 6]}}
+{"file_name": "78.png", "objects": {"bbox": [[133, 288, 240, 382]], "categories": [6]}}
+{"file_name": "79.png", "objects": {"bbox": [[863, 287, 314, 374], [162, 410, 235, 171]], "categories": [6, 6]}}
+{"file_name": "92.png", "objects": {"bbox": [[980, 266, 403, 320]], "categories": [6]}}
+{"file_name": "86.png", "objects": {"bbox": [[1480, 412, 225, 209]], "categories": [6]}}
+{"file_name": "90.png", "objects": {"bbox": [[115, 213, 383, 370]], "categories": [6]}}
+{"file_name": "84.png", "objects": {"bbox": [[885, 419, 223, 194]], "categories": [6]}}
+{"file_name": "85.png", "objects": {"bbox": [[1156, 432, 222, 177]], "categories": [6]}}
+{"file_name": "91.png", "objects": {"bbox": [[383, 250, 414, 310]], "categories": [6]}}
+{"file_name": "63.png", "objects": {"bbox": [[1200, 644, 583, 178]], "categories": [7]}}
+{"file_name": "62.png", "objects": {"bbox": [[854, 669, 613, 140]], "categories": [7]}}
+{"file_name": "60.png", "objects": {"bbox": [[132, 593, 652, 204]], "categories": [7]}}
+{"file_name": "48.png", "objects": {"bbox": [[568, 607, 596, 164], [1422, 239, 280, 388]], "categories": [7, 7]}}
+{"file_name": "49.png", "objects": {"bbox": [[244, 269, 381, 230], [653, 651, 663, 153]], "categories": [7, 7]}}
+{"file_name": "61.png", "objects": {"bbox": [[142, 610, 670, 182]], "categories": [7]}}
+{"file_name": "59.png", "objects": {"bbox": [[1002, 489, 393, 295], [1375, 579, 379, 244], [104, 636, 387, 152]], "categories": [7, 7, 7]}}
+{"file_name": "58.png", "objects": {"bbox": [[514, 585, 404, 218], [122, 340, 432, 145]], "categories": [7, 7]}}
+{"file_name": "8.png", "objects": {"bbox": [[138, 286, 613, 506]], "categories": [7]}}
+{"file_name": "9.png", "objects": {"bbox": [[878, 250, 667, 538]], "categories": [7]}}
+{"file_name": "14.png", "objects": {"bbox": [[703, 343, 820, 205]], "categories": [7]}}
+{"file_name": "28.png", "objects": {"bbox": [[935, 612, 413, 202]], "categories": [7]}}
+{"file_name": "29.png", "objects": {"bbox": [[1200, 613, 454, 190], [100, 486, 247, 129]], "categories": [7, 7]}}
+{"file_name": "15.png", "objects": {"bbox": [[1028, 349, 759, 216]], "categories": [7]}}
+{"file_name": "328.png", "objects": {"bbox": [[1067, 450, 368, 258], [889, 648, 627, 181], [934, 225, 590, 151]], "categories": [7, 7, 7]}}
+{"file_name": "17.png", "objects": {"bbox": [[560, 600, 609, 188]], "categories": [7]}}
+{"file_name": "16.png", "objects": {"bbox": [[201, 488, 684, 189]], "categories": [7]}}
+{"file_name": "329.png", "objects": {"bbox": [[770, 367, 398, 148], [644, 242, 619, 144]], "categories": [7, 7]}}
+{"file_name": "12.png", "objects": {"bbox": [[899, 370, 548, 330]], "categories": [7]}}
+{"file_name": "13.png", "objects": {"bbox": [[142, 346, 793, 179]], "categories": [7]}}
+{"file_name": "338.png", "objects": {"bbox": [[1387, 257, 406, 158]], "categories": [7]}}
+{"file_name": "39.png", "objects": {"bbox": [[429, 331, 505, 184]], "categories": [7]}}
+{"file_name": "11.png", "objects": {"bbox": [[458, 355, 628, 333]], "categories": [7]}}
+{"file_name": "10.png", "objects": {"bbox": [[89, 357, 637, 317]], "categories": [7]}}
+{"file_name": "38.png", "objects": {"bbox": [[127, 334, 533, 217], [1535, 709, 291, 116]], "categories": [7, 7]}}
+{"file_name": "336.png", "objects": {"bbox": [[766, 254, 412, 150], [1171, 515, 625, 239]], "categories": [7, 7]}}
+{"file_name": "339.png", "objects": {"bbox": [[1008, 299, 404, 191], [1289, 218, 531, 199]], "categories": [7, 7]}}
+{"file_name": "35.png", "objects": {"bbox": [[1103, 300, 617, 371], [87, 281, 479, 284]], "categories": [7, 7]}}
+{"file_name": "21.png", "objects": {"bbox": [[464, 367, 502, 207]], "categories": [7]}}
+{"file_name": "20.png", "objects": {"bbox": [[144, 393, 479, 177]], "categories": [7]}}
+{"file_name": "34.png", "objects": {"bbox": [[678, 256, 597, 403], [1598, 643, 230, 157]], "categories": [7, 7]}}
+{"file_name": "323.png", "objects": {"bbox": [[1577, 437, 198, 377], [97, 249, 548, 262]], "categories": [7, 7]}}
+{"file_name": "337.png", "objects": {"bbox": [[1163, 270, 411, 119]], "categories": [7]}}
+{"file_name": "335.png", "objects": {"bbox": [[812, 528, 797, 258], [425, 254, 425, 113]], "categories": [7, 7]}}
+{"file_name": "22.png", "objects": {"bbox": [[411, 263, 354, 290], [1205, 415, 541, 133]], "categories": [7, 7]}}
+{"file_name": "36.png", "objects": {"bbox": [[258, 278, 635, 368], [1371, 373, 465, 287]], "categories": [7, 7]}}
+{"file_name": "37.png", "objects": {"bbox": [[1181, 315, 591, 310], [98, 298, 211, 158]], "categories": [7, 7]}}
+{"file_name": "23.png", "objects": {"bbox": [[923, 268, 357, 281]], "categories": [7]}}
+{"file_name": "334.png", "objects": {"bbox": [[325, 509, 732, 251], [1217, 675, 414, 143]], "categories": [7, 7]}}
+{"file_name": "324.png", "objects": {"bbox": [[176, 266, 772, 309]], "categories": [7]}}
+{"file_name": "330.png", "objects": {"bbox": [[750, 262, 654, 134], [898, 352, 453, 135]], "categories": [7, 7]}}
+{"file_name": "27.png", "objects": {"bbox": [[820, 571, 397, 228]], "categories": [7]}}
+{"file_name": "33.png", "objects": {"bbox": [[194, 240, 593, 406], [1141, 604, 681, 184]], "categories": [7, 7]}}
+{"file_name": "32.png", "objects": {"bbox": [[864, 629, 811, 149], [95, 253, 444, 310]], "categories": [7, 7]}}
+{"file_name": "26.png", "objects": {"bbox": [[522, 607, 400, 164]], "categories": [7]}}
+{"file_name": "331.png", "objects": {"bbox": [[1061, 268, 653, 122], [1218, 370, 390, 100]], "categories": [7, 7]}}
+{"file_name": "325.png", "objects": {"bbox": [[654, 254, 748, 332], [85, 213, 415, 408]], "categories": [7, 7]}}
+{"file_name": "333.png", "objects": {"bbox": [[317, 663, 420, 145]], "categories": [7]}}
+{"file_name": "327.png", "objects": {"bbox": [[546, 701, 624, 98], [761, 410, 280, 324], [562, 260, 600, 129]], "categories": [7, 7, 7]}}
+{"file_name": "18.png", "objects": {"bbox": [[1059, 652, 624, 116]], "categories": [7]}}
+{"file_name": "30.png", "objects": {"bbox": [[97, 606, 624, 143], [1588, 671, 241, 143]], "categories": [7, 7]}}
+{"file_name": "24.png", "objects": {"bbox": [[1278, 245, 384, 347]], "categories": [7]}}
+{"file_name": "25.png", "objects": {"bbox": [[166, 600, 443, 210]], "categories": [7]}}
+{"file_name": "31.png", "objects": {"bbox": [[421, 645, 773, 119]], "categories": [7]}}
+{"file_name": "19.png", "objects": {"bbox": [[696, 653, 619, 172]], "categories": [7]}}
+{"file_name": "326.png", "objects": {"bbox": [[954, 244, 439, 403], [81, 247, 343, 91]], "categories": [7, 7]}}
+{"file_name": "332.png", "objects": {"bbox": [[99, 651, 335, 141], [1538, 277, 278, 94]], "categories": [7, 7]}}
+{"file_name": "4.png", "objects": {"bbox": [[135, 400, 439, 275]], "categories": [7]}}
+{"file_name": "56.png", "objects": {"bbox": [[1163, 225, 469, 324]], "categories": [7]}}
+{"file_name": "42.png", "objects": {"bbox": [[1206, 342, 558, 234], [409, 520, 388, 298]], "categories": [7, 7]}}
+{"file_name": "43.png", "objects": {"bbox": [[599, 534, 418, 283], [1439, 406, 381, 184]], "categories": [7, 7]}}
+{"file_name": "5.png", "objects": {"bbox": [[436, 496, 386, 308]], "categories": [7]}}
+{"file_name": "57.png", "objects": {"bbox": [[131, 573, 440, 238]], "categories": [7]}}
+{"file_name": "41.png", "objects": {"bbox": [[947, 335, 549, 235], [122, 520, 418, 273]], "categories": [7, 7]}}
+{"file_name": "55.png", "objects": {"bbox": [[220, 242, 387, 306], [1558, 429, 271, 189]], "categories": [7, 7]}}
+{"file_name": "7.png", "objects": {"bbox": [[1310, 379, 312, 364]], "categories": [7]}}
+{"file_name": "54.png", "objects": {"bbox": [[900, 267, 820, 142], [287, 447, 255, 137]], "categories": [7, 7]}}
+{"file_name": "6.png", "objects": {"bbox": [[1092, 624, 450, 193]], "categories": [7]}}
+{"file_name": "40.png", "objects": {"bbox": [[706, 325, 538, 210], [94, 428, 163, 179]], "categories": [7, 7]}}
+{"file_name": "44.png", "objects": {"bbox": [[812, 525, 408, 278]], "categories": [7]}}
+{"file_name": "2.png", "objects": {"bbox": [[840, 452, 662, 201]], "categories": [7]}}
+{"file_name": "50.png", "objects": {"bbox": [[706, 264, 407, 310], [819, 652, 610, 149]], "categories": [7, 7]}}
+{"file_name": "3.png", "objects": {"bbox": [[1092, 468, 603, 166]], "categories": [7]}}
+{"file_name": "51.png", "objects": {"bbox": [[144, 293, 595, 220]], "categories": [7]}}
+{"file_name": "45.png", "objects": {"bbox": [[1099, 538, 400, 263]], "categories": [7]}}
+{"file_name": "53.png", "objects": {"bbox": [[198, 237, 733, 170]], "categories": [7]}}
+{"file_name": "1.png", "objects": {"bbox": [[614, 464, 620, 161]], "categories": [7]}}
+{"file_name": "47.png", "objects": {"bbox": [[933, 250, 246, 386], [93, 243, 488, 327]], "categories": [7, 7]}}
+{"file_name": "46.png", "objects": {"bbox": [[153, 227, 220, 395]], "categories": [7]}}
+{"file_name": "52.png", "objects": {"bbox": [[777, 322, 613, 223]], "categories": [7]}}
+{"file_name": "0.png", "objects": {"bbox": [[158, 458, 620, 157]], "categories": [7]}}

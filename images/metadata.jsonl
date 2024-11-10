@@ -1,0 +1,340 @@
+{"file_name": "train/317.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 317}
+{"file_name": "train/303.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 303}
+{"file_name": "train/288.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 288}
+{"file_name": "train/289.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 289}
+{"file_name": "train/302.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 302}
+{"file_name": "train/316.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 316}
+{"file_name": "train/300.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 300}
+{"file_name": "train/314.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 314}
+{"file_name": "train/315.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 315}
+{"file_name": "train/301.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 301}
+{"file_name": "train/305.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 305}
+{"file_name": "train/311.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 311}
+{"file_name": "test/310.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 310}
+{"file_name": "train/304.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 304}
+{"file_name": "train/312.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 312}
+{"file_name": "train/306.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 306}
+{"file_name": "train/299.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 299}
+{"file_name": "train/298.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 298}
+{"file_name": "train/307.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 307}
+{"file_name": "train/313.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 313}
+{"file_name": "train/322.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 322}
+{"file_name": "train/295.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 295}
+{"file_name": "train/294.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 294}
+{"file_name": "train/309.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 309}
+{"file_name": "train/321.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 321}
+{"file_name": "train/296.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 296}
+{"file_name": "train/282.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 282}
+{"file_name": "test/283.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 283}
+{"file_name": "train/297.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 297}
+{"file_name": "test/320.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 320}
+{"file_name": "train/308.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 308}
+{"file_name": "train/318.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 318}
+{"file_name": "train/293.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 293}
+{"file_name": "train/287.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 287}
+{"file_name": "train/286.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 286}
+{"file_name": "train/292.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 292}
+{"file_name": "train/319.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 319}
+{"file_name": "train/284.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 284}
+{"file_name": "train/290.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 290}
+{"file_name": "train/291.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 291}
+{"file_name": "train/285.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 285}
+{"file_name": "train/239.png", "objects": {"bbox": [[295, 238, 520, 105], [484, 697, 269, 105], [884, 663, 99, 112]], "categories": [1, 1, 1], "area": [54600, 28245, 11088], "id": [0, 1, 2]}, "image_id": 239}
+{"file_name": "train/238.png", "objects": {"bbox": [[211, 236, 532, 114], [711, 660, 140, 161], [70, 436, 118, 247]], "categories": [1, 1, 1], "area": [60648, 22540, 29146], "id": [3, 4, 5]}, "image_id": 238}
+{"file_name": "train/263.png", "objects": {"bbox": [[503, 708, 255, 87]], "categories": [1], "area": [22185], "id": [6]}, "image_id": 263}
+{"file_name": "train/277.png", "objects": {"bbox": [[1342, 462, 133, 105]], "categories": [1], "area": [13965], "id": [7]}, "image_id": 277}
+{"file_name": "train/276.png", "objects": {"bbox": [[1075, 443, 131, 111]], "categories": [1], "area": [14541], "id": [8]}, "image_id": 276}
+{"file_name": "train/262.png", "objects": {"bbox": [[1457, 670, 106, 152]], "categories": [1], "area": [16112], "id": [9]}, "image_id": 262}
+{"file_name": "train/248.png", "objects": {"bbox": [[1335, 660, 133, 149], [117, 388, 122, 108]], "categories": [1, 1], "area": [19817, 13176], "id": [10, 11]}, "image_id": 248}
+{"file_name": "train/274.png", "objects": {"bbox": [[287, 425, 136, 98], [1439, 471, 109, 105]], "categories": [1, 1], "area": [13328, 11445], "id": [12, 13]}, "image_id": 274}
+{"file_name": "train/260.png", "objects": {"bbox": [[1328, 618, 161, 121], [528, 603, 98, 78]], "categories": [1, 1], "area": [19481, 7644], "id": [14, 15]}, "image_id": 260}
+{"file_name": "test/261.png", "objects": {"bbox": [[417, 647, 116, 142], [1333, 605, 122, 94]], "categories": [1, 1], "area": [16472, 11468], "id": [16, 17]}, "image_id": 261}
+{"file_name": "train/275.png", "objects": {"bbox": [[788, 433, 113, 100]], "categories": [1], "area": [11300], "id": [18]}, "image_id": 275}
+{"file_name": "train/249.png", "objects": {"bbox": [[419, 454, 115, 90], [811, 438, 100, 76], [1634, 412, 111, 110]], "categories": [1, 1, 1], "area": [10350, 7600, 12210], "id": [19, 20, 21]}, "image_id": 249}
+{"file_name": "train/271.png", "objects": {"bbox": [[533, 626, 191, 176], [1551, 565, 158, 127]], "categories": [1, 1], "area": [33616, 20066], "id": [22, 23]}, "image_id": 271}
+{"file_name": "train/265.png", "objects": {"bbox": [[185, 457, 156, 125], [484, 251, 115, 92], [105, 255, 248, 87]], "categories": [1, 1, 1], "area": [19500, 10580, 21576], "id": [24, 25, 26]}, "image_id": 265}
+{"file_name": "train/259.png", "objects": {"bbox": [[150, 584, 110, 97], [967, 631, 148, 101], [1453, 415, 390, 396]], "categories": [1, 1, 1], "area": [10670, 14948, 154440], "id": [27, 28, 29]}, "image_id": 259}
+{"file_name": "train/258.png", "objects": {"bbox": [[495, 620, 132, 116], [996, 411, 428, 398]], "categories": [1, 1], "area": [15312, 170344], "id": [30, 31]}, "image_id": 258}
+{"file_name": "train/264.png", "objects": {"bbox": [[1303, 702, 300, 130], [93, 244, 221, 156]], "categories": [1, 1], "area": [39000, 34476], "id": [32, 33]}, "image_id": 264}
+{"file_name": "train/270.png", "objects": {"bbox": [[709, 406, 153, 141]], "categories": [1], "area": [21573], "id": [34]}, "image_id": 270}
+{"file_name": "train/266.png", "objects": {"bbox": [[617, 416, 113, 173], [727, 276, 101, 66], [370, 521, 154, 132], [109, 267, 260, 87]], "categories": [1, 1, 1, 1], "area": [19549, 6666, 20328, 22620], "id": [35, 36, 37, 38]}, "image_id": 266}
+{"file_name": "train/272.png", "objects": {"bbox": [[206, 423, 122, 102], [1406, 679, 167, 129]], "categories": [1, 1], "area": [12444, 21543], "id": [39, 40]}, "image_id": 272}
+{"file_name": "train/273.png", "objects": {"bbox": [[1044, 457, 146, 88]], "categories": [1], "area": [12848], "id": [41]}, "image_id": 273}
+{"file_name": "train/267.png", "objects": {"bbox": [[1043, 445, 170, 149], [858, 546, 112, 89], [796, 263, 79, 86], [454, 249, 255, 108]], "categories": [1, 1, 1, 1], "area": [25330, 9968, 6794, 27540], "id": [42, 43, 44, 45]}, "image_id": 267}
+{"file_name": "test/242.png", "objects": {"bbox": [[1568, 277, 243, 104], [1604, 634, 146, 99]], "categories": [1, 1], "area": [25272, 14454], "id": [46, 47]}, "image_id": 242}
+{"file_name": "train/256.png", "objects": {"bbox": [[1649, 717, 157, 110]], "categories": [1], "area": [17270], "id": [48]}, "image_id": 256}
+{"file_name": "train/281.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 281}
+{"file_name": "train/280.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 280}
+{"file_name": "train/257.png", "objects": {"bbox": [[139, 379, 404, 420]], "categories": [1], "area": [169680], "id": [49]}, "image_id": 257}
+{"file_name": "train/243.png", "objects": {"bbox": [[595, 484, 153, 80]], "categories": [1], "area": [12240], "id": [50]}, "image_id": 243}
+{"file_name": "train/269.png", "objects": {"bbox": [[161, 377, 172, 123]], "categories": [1], "area": [21156], "id": [51]}, "image_id": 269}
+{"file_name": "train/255.png", "objects": {"bbox": [[1402, 687, 187, 148]], "categories": [1], "area": [27676], "id": [52]}, "image_id": 255}
+{"file_name": "train/241.png", "objects": {"bbox": [[914, 523, 174, 127], [1377, 244, 262, 135], [256, 359, 184, 137]], "categories": [1, 1, 1], "area": [22098, 35370, 25208], "id": [53, 54, 55]}, "image_id": 241}
+{"file_name": "train/240.png", "objects": {"bbox": [[98, 505, 144, 122], [264, 268, 278, 228], [975, 249, 548, 121]], "categories": [1, 1, 1], "area": [17568, 63384, 66308], "id": [56, 57, 58]}, "image_id": 240}
+{"file_name": "train/254.png", "objects": {"bbox": [[1271, 716, 125, 115]], "categories": [1], "area": [14375], "id": [59]}, "image_id": 254}
+{"file_name": "train/268.png", "objects": {"bbox": [[1367, 282, 71, 84]], "categories": [1], "area": [5964], "id": [60]}, "image_id": 268}
+{"file_name": "train/250.png", "objects": {"bbox": [[989, 442, 104, 80], [600, 451, 137, 113], [169, 491, 161, 132]], "categories": [1, 1, 1], "area": [8320, 15481, 21252], "id": [61, 62, 63]}, "image_id": 250}
+{"file_name": "train/244.png", "objects": {"bbox": [[309, 568, 107, 94], [895, 473, 161, 120]], "categories": [1, 1], "area": [10058, 19320], "id": [64, 65]}, "image_id": 244}
+{"file_name": "train/278.png", "objects": {"bbox": [[1541, 469, 133, 94]], "categories": [1], "area": [12502], "id": [66]}, "image_id": 278}
+{"file_name": "train/279.png", "objects": {"bbox": [], "categories": [], "area": [], "id": []}, "image_id": 279}
+{"file_name": "train/245.png", "objects": {"bbox": [[1140, 471, 143, 112], [563, 574, 121, 98]], "categories": [1, 1], "area": [16016, 11858], "id": [67, 68]}, "image_id": 245}
+{"file_name": "train/251.png", "objects": {"bbox": [[184, 685, 105, 113], [670, 487, 175, 147], [1099, 474, 122, 101], [1478, 452, 155, 95]], "categories": [1, 1, 1, 1], "area": [11865, 25725, 12322, 14725], "id": [69, 70, 71, 72]}, "image_id": 251}
+{"file_name": "train/247.png", "objects": {"bbox": [[1156, 658, 139, 159]], "categories": [1], "area": [22101], "id": [73]}, "image_id": 247}
+{"file_name": "train/253.png", "objects": {"bbox": [[1019, 697, 148, 117], [1515, 543, 147, 112]], "categories": [1, 1], "area": [17316, 16464], "id": [74, 75]}, "image_id": 253}
+{"file_name": "train/252.png", "objects": {"bbox": [[485, 699, 137, 113], [991, 491, 160, 150], [1423, 462, 148, 153]], "categories": [1, 1, 1], "area": [15481, 24000, 22644], "id": [76, 77, 78]}, "image_id": 252}
+{"file_name": "test/246.png", "objects": {"bbox": [[1013, 574, 109, 127], [1513, 614, 167, 148]], "categories": [1, 1], "area": [13843, 24716], "id": [79, 80]}, "image_id": 246}
+{"file_name": "train/235.png", "objects": {"bbox": [[143, 241, 517, 105]], "categories": [1], "area": [54285], "id": [81]}, "image_id": 235}
+{"file_name": "train/236.png", "objects": {"bbox": [[216, 487, 113, 128], [228, 244, 517, 113]], "categories": [1, 1], "area": [14464, 58421], "id": [82, 83]}, "image_id": 236}
+{"file_name": "train/237.png", "objects": {"bbox": [[245, 233, 510, 131], [719, 668, 137, 148]], "categories": [1, 1], "area": [66810, 20276], "id": [84, 85]}, "image_id": 237}
+{"file_name": "train/228.png", "objects": {"bbox": [[96, 675, 231, 129], [792, 223, 278, 228], [1168, 420, 120, 151], [1416, 259, 180, 123]], "categories": [2, 2, 2, 2], "area": [29799, 63384, 18120, 22140], "id": [86, 87, 88, 89]}, "image_id": 228}
+{"file_name": "train/200.png", "objects": {"bbox": [[260, 229, 353, 353], [755, 238, 202, 166], [1347, 250, 254, 129]], "categories": [2, 2, 2], "area": [124609, 33532, 32766], "id": [90, 91, 92]}, "image_id": 200}
+{"file_name": "train/214.png", "objects": {"bbox": [[508, 516, 145, 118]], "categories": [2], "area": [17110], "id": [93]}, "image_id": 214}
+{"file_name": "train/215.png", "objects": {"bbox": [[702, 496, 182, 151]], "categories": [2], "area": [27482], "id": [94]}, "image_id": 215}
+{"file_name": "train/201.png", "objects": {"bbox": [[530, 251, 353, 316], [1008, 253, 207, 149]], "categories": [2, 2], "area": [111548, 30843], "id": [95, 96]}, "image_id": 201}
+{"file_name": "train/229.png", "objects": {"bbox": [[623, 667, 247, 143], [1348, 281, 222, 171], [1690, 455, 141, 105]], "categories": [2, 2, 2], "area": [35321, 37962, 14805], "id": [97, 98, 99]}, "image_id": 229}
+{"file_name": "train/217.png", "objects": {"bbox": [[249, 354, 324, 204]], "categories": [2], "area": [66096], "id": [100]}, "image_id": 217}
+{"file_name": "train/203.png", "objects": {"bbox": [[185, 209, 280, 152]], "categories": [2], "area": [42560], "id": [101]}, "image_id": 203}
+{"file_name": "test/202.png", "objects": {"bbox": [[483, 242, 331, 135], [1206, 253, 336, 310]], "categories": [2, 2], "area": [44685, 104160], "id": [102, 103]}, "image_id": 202}
+{"file_name": "train/216.png", "objects": {"bbox": [[1576, 536, 155, 120]], "categories": [2], "area": [18600], "id": [104]}, "image_id": 216}
+{"file_name": "train/212.png", "objects": {"bbox": [[1108, 442, 167, 111], [1043, 706, 268, 105], [500, 248, 144, 192]], "categories": [2, 2, 2], "area": [18537, 28140, 27648], "id": [105, 106, 107]}, "image_id": 212}
+{"file_name": "train/206.png", "objects": {"bbox": [[267, 409, 88, 263], [357, 411, 96, 266], [1113, 491, 141, 108]], "categories": [2, 2, 2], "area": [23144, 25536, 15228], "id": [108, 109, 110]}, "image_id": 206}
+{"file_name": "train/207.png", "objects": {"bbox": [[180, 424, 98, 179], [800, 429, 146, 249], [946, 429, 91, 264], [1695, 496, 126, 112]], "categories": [2, 2, 2, 2], "area": [17542, 36354, 24024, 14112], "id": [111, 112, 113, 114]}, "image_id": 207}
+{"file_name": "train/213.png", "objects": {"bbox": [[1208, 239, 186, 214]], "categories": [2], "area": [39804], "id": [115]}, "image_id": 213}
+{"file_name": "train/198.png", "objects": {"bbox": [[288, 234, 301, 139]], "categories": [2], "area": [41839], "id": [116]}, "image_id": 198}
+{"file_name": "train/205.png", "objects": {"bbox": [[1065, 643, 281, 173], [1468, 251, 321, 149]], "categories": [2, 2], "area": [48613, 47829], "id": [117, 118]}, "image_id": 205}
+{"file_name": "train/211.png", "objects": {"bbox": [[557, 439, 144, 115], [486, 670, 306, 154], [1343, 673, 229, 149]], "categories": [2, 2, 2], "area": [16560, 47124, 34121], "id": [119, 120, 121]}, "image_id": 211}
+{"file_name": "train/210.png", "objects": {"bbox": [[262, 388, 192, 143], [228, 695, 293, 110], [1084, 699, 218, 113]], "categories": [2, 2, 2], "area": [27456, 32230, 24634], "id": [122, 123, 124]}, "image_id": 210}
+{"file_name": "train/204.png", "objects": {"bbox": [[768, 209, 335, 169], [346, 675, 306, 112]], "categories": [2, 2], "area": [56615, 34272], "id": [125, 126]}, "image_id": 204}
+{"file_name": "train/199.png", "objects": {"bbox": [[269, 215, 256, 176], [887, 239, 266, 144]], "categories": [2, 2], "area": [45056, 38304], "id": [127, 128]}, "image_id": 199}
+{"file_name": "train/209.png", "objects": {"bbox": [[120, 679, 200, 123]], "categories": [2], "area": [24600], "id": [129]}, "image_id": 209}
+{"file_name": "train/221.png", "objects": {"bbox": [[867, 684, 306, 133], [95, 262, 319, 163], [1402, 236, 357, 147]], "categories": [2, 2, 2], "area": [40698, 51997, 52479], "id": [130, 131, 132]}, "image_id": 221}
+{"file_name": "train/234.png", "objects": {"bbox": [[956, 412, 158, 156]], "categories": [2], "area": [24648], "id": [133]}, "image_id": 234}
+{"file_name": "test/220.png", "objects": {"bbox": [[673, 235, 371, 136], [1327, 251, 277, 177], [93, 456, 143, 159]], "categories": [2, 2, 2], "area": [50456, 49029, 22737], "id": [134, 135, 136]}, "image_id": 220}
+{"file_name": "train/208.png", "objects": {"bbox": [[257, 263, 140, 154], [901, 432, 117, 149], [1521, 446, 154, 235], [1675, 447, 84, 274]], "categories": [2, 2, 2, 2], "area": [21560, 17433, 36190, 23016], "id": [137, 138, 139, 140]}, "image_id": 208}
+{"file_name": "train/197.png", "objects": {"bbox": [[1184, 275, 209, 328], [1402, 258, 325, 169]], "categories": [2, 2], "area": [68552, 54925], "id": [141, 142]}, "image_id": 197}
+{"file_name": "train/222.png", "objects": {"bbox": [[1011, 204, 356, 283], [104, 461, 211, 258]], "categories": [2, 2], "area": [100748, 54438], "id": [143, 144]}, "image_id": 222}
+{"file_name": "train/223.png", "objects": {"bbox": [[246, 249, 295, 113], [935, 485, 224, 242]], "categories": [2, 2], "area": [33335, 54208], "id": [145, 146]}, "image_id": 223}
+{"file_name": "train/196.png", "objects": {"bbox": [[1074, 278, 238, 319], [1303, 217, 336, 208]], "categories": [2, 2], "area": [75922, 69888], "id": [147, 148]}, "image_id": 196}
+{"file_name": "train/233.png", "objects": {"bbox": [[745, 517, 160, 130], [1256, 211, 166, 209]], "categories": [2, 2], "area": [20800, 34694], "id": [149, 150]}, "image_id": 233}
+{"file_name": "train/227.png", "objects": {"bbox": [[825, 230, 258, 153], [491, 413, 146, 134], [141, 243, 213, 181]], "categories": [2, 2, 2], "area": [39474, 19564, 38553], "id": [151, 152, 153]}, "image_id": 227}
+{"file_name": "train/226.png", "objects": {"bbox": [[98, 236, 235, 120], [1404, 704, 242, 107]], "categories": [2, 2], "area": [28200, 25894], "id": [154, 155]}, "image_id": 226}
+{"file_name": "train/232.png", "objects": {"bbox": [[543, 253, 129, 148], [1119, 256, 183, 123]], "categories": [2, 2], "area": [19092, 22509], "id": [156, 157]}, "image_id": 232}
+{"file_name": "train/224.png", "objects": {"bbox": [[577, 383, 139, 121], [73, 358, 196, 383], [1330, 236, 335, 134]], "categories": [2, 2, 2], "area": [16819, 75068, 44890], "id": [158, 159, 160]}, "image_id": 224}
+{"file_name": "train/230.png", "objects": {"bbox": [[1242, 692, 295, 120]], "categories": [2], "area": [35400], "id": [161]}, "image_id": 230}
+{"file_name": "train/218.png", "objects": {"bbox": [[1196, 282, 297, 218]], "categories": [2], "area": [64746], "id": [162]}, "image_id": 218}
+{"file_name": "train/219.png", "objects": {"bbox": [[430, 227, 410, 142], [886, 236, 277, 178]], "categories": [2, 2], "area": [58220, 49306], "id": [163, 164]}, "image_id": 219}
+{"file_name": "train/231.png", "objects": {"bbox": [[450, 231, 216, 149]], "categories": [2], "area": [32184], "id": [165]}, "image_id": 231}
+{"file_name": "train/225.png", "objects": {"bbox": [[932, 661, 264, 154]], "categories": [2], "area": [40656], "id": [166]}, "image_id": 225}
+{"file_name": "train/176.png", "objects": {"bbox": [[141, 229, 362, 236], [1330, 253, 256, 311]], "categories": [3, 3], "area": [85432, 79616], "id": [167, 168]}, "image_id": 176}
+{"file_name": "train/162.png", "objects": {"bbox": [[1128, 655, 370, 176], [1528, 433, 185, 161]], "categories": [3, 3], "area": [65120, 29785], "id": [169, 170]}, "image_id": 162}
+{"file_name": "train/189.png", "objects": {"bbox": [[831, 662, 241, 144], [328, 439, 123, 73], [315, 213, 225, 156]], "categories": [3, 3, 3], "area": [34704, 8979, 35100], "id": [171, 172, 173]}, "image_id": 189}
+{"file_name": "train/188.png", "objects": {"bbox": [[78, 270, 217, 127], [89, 445, 108, 61], [553, 627, 262, 186]], "categories": [3, 3, 3], "area": [27559, 6588, 48732], "id": [174, 175, 176]}, "image_id": 188}
+{"file_name": "train/163.png", "objects": {"bbox": [[1349, 681, 369, 156]], "categories": [3], "area": [57564], "id": [177]}, "image_id": 163}
+{"file_name": "train/177.png", "objects": {"bbox": [[785, 659, 346, 191], [818, 245, 341, 215]], "categories": [3, 3], "area": [66086, 73315], "id": [178, 179]}, "image_id": 177}
+{"file_name": "train/149.png", "objects": {"bbox": [[833, 469, 163, 125], [300, 644, 177, 163], [1576, 274, 184, 171]], "categories": [3, 3, 3], "area": [20375, 28851, 31464], "id": [180, 181, 182]}, "image_id": 149}
+{"file_name": "train/161.png", "objects": {"bbox": [[1060, 381, 223, 221], [689, 506, 303, 261]], "categories": [3, 3], "area": [49283, 79083], "id": [183, 184]}, "image_id": 161}
+{"file_name": "train/175.png", "objects": {"bbox": [[1107, 277, 231, 320]], "categories": [3], "area": [73920], "id": [185]}, "image_id": 175}
+{"file_name": "train/174.png", "objects": {"bbox": [[890, 250, 301, 292], [174, 235, 196, 327]], "categories": [3, 3], "area": [87892, 64092], "id": [186, 187]}, "image_id": 174}
+{"file_name": "train/160.png", "objects": {"bbox": [[766, 375, 237, 223], [1309, 236, 328, 212]], "categories": [3, 3], "area": [52851, 69536], "id": [188, 189]}, "image_id": 160}
+{"file_name": "train/148.png", "objects": {"bbox": [[920, 268, 247, 188], [140, 476, 167, 114], [1485, 290, 245, 246]], "categories": [3, 3, 3], "area": [46436, 19038, 60270], "id": [190, 191, 192]}, "image_id": 148}
+{"file_name": "train/164.png", "objects": {"bbox": [[629, 659, 376, 171]], "categories": [3], "area": [64296], "id": [193]}, "image_id": 164}
+{"file_name": "train/170.png", "objects": {"bbox": [[120, 241, 299, 216]], "categories": [3], "area": [64584], "id": [194]}, "image_id": 170}
+{"file_name": "train/158.png", "objects": {"bbox": [[202, 226, 348, 137], [920, 217, 308, 198]], "categories": [3, 3], "area": [47676, 60984], "id": [195, 196]}, "image_id": 158}
+{"file_name": "train/159.png", "objects": {"bbox": [[659, 239, 301, 178], [163, 420, 173, 156], [1352, 242, 327, 174]], "categories": [3, 3, 3], "area": [53578, 26988, 56898], "id": [197, 198, 199]}, "image_id": 159}
+{"file_name": "train/171.png", "objects": {"bbox": [[800, 254, 281, 248]], "categories": [3], "area": [69688], "id": [200]}, "image_id": 171}
+{"file_name": "train/165.png", "objects": {"bbox": [[892, 661, 332, 158], [103, 235, 343, 164]], "categories": [3, 3], "area": [52456, 56252], "id": [201, 202]}, "image_id": 165}
+{"file_name": "train/173.png", "objects": {"bbox": [[541, 237, 251, 257]], "categories": [3], "area": [64507], "id": [203]}, "image_id": 173}
+{"file_name": "train/167.png", "objects": {"bbox": [[235, 235, 309, 151], [931, 216, 411, 178]], "categories": [3, 3], "area": [46659, 73158], "id": [204, 205]}, "image_id": 167}
+{"file_name": "train/166.png", "objects": {"bbox": [[601, 222, 323, 164], [98, 284, 275, 279], [1381, 688, 372, 112]], "categories": [3, 3, 3], "area": [52972, 76725, 41664], "id": [206, 207, 208]}, "image_id": 166}
+{"file_name": "test/172.png", "objects": {"bbox": [[1287, 239, 305, 273]], "categories": [3], "area": [83265], "id": [209]}, "image_id": 172}
+{"file_name": "train/129.png", "objects": {"bbox": [[322, 250, 278, 165]], "categories": [3], "area": [45870], "id": [210]}, "image_id": 129}
+{"file_name": "train/138.png", "objects": {"bbox": [[1020, 381, 283, 182], [104, 222, 320, 188]], "categories": [3, 3], "area": [51506, 60160], "id": [211, 212]}, "image_id": 138}
+{"file_name": "train/139.png", "objects": {"bbox": [[763, 251, 330, 146], [1637, 350, 205, 188]], "categories": [3, 3], "area": [48180, 38540], "id": [213, 214]}, "image_id": 139}
+{"file_name": "train/134.png", "objects": {"bbox": [[120, 324, 223, 176]], "categories": [3], "area": [39248], "id": [215]}, "image_id": 134}
+{"file_name": "train/135.png", "objects": {"bbox": [[497, 350, 270, 169]], "categories": [3], "area": [45630], "id": [216]}, "image_id": 135}
+{"file_name": "train/137.png", "objects": {"bbox": [[662, 381, 217, 183], [1653, 321, 198, 150]], "categories": [3, 3], "area": [39711, 29700], "id": [217, 218]}, "image_id": 137}
+{"file_name": "train/136.png", "objects": {"bbox": [[1111, 290, 231, 184], [155, 393, 198, 178]], "categories": [3, 3], "area": [42504, 35244], "id": [219, 220]}, "image_id": 136}
+{"file_name": "train/132.png", "objects": {"bbox": [[898, 247, 244, 271], [1300, 256, 310, 128]], "categories": [3, 3], "area": [66124, 39680], "id": [221, 222]}, "image_id": 132}
+{"file_name": "train/133.png", "objects": {"bbox": [[1453, 258, 298, 288]], "categories": [3], "area": [85824], "id": [223]}, "image_id": 133}
+{"file_name": "train/131.png", "objects": {"bbox": [[1212, 265, 339, 156]], "categories": [3], "area": [52884], "id": [224]}, "image_id": 131}
+{"file_name": "train/130.png", "objects": {"bbox": [[1164, 290, 292, 131], [312, 236, 387, 119]], "categories": [3, 3], "area": [38252, 46053], "id": [225, 226]}, "image_id": 130}
+{"file_name": "train/157.png", "objects": {"bbox": [[529, 251, 290, 136]], "categories": [3], "area": [39440], "id": [227]}, "image_id": 157}
+{"file_name": "train/143.png", "objects": {"bbox": [[798, 258, 239, 154], [94, 380, 137, 149], [1476, 488, 184, 139]], "categories": [3, 3, 3], "area": [36806, 20413, 25576], "id": [228, 229, 230]}, "image_id": 143}
+{"file_name": "train/194.png", "objects": {"bbox": [[1452, 377, 158, 111], [1499, 499, 154, 107]], "categories": [3, 3], "area": [17538, 16478], "id": [231, 232]}, "image_id": 194}
+{"file_name": "train/180.png", "objects": {"bbox": [[1068, 220, 323, 230], [219, 234, 291, 159]], "categories": [3, 3], "area": [74290, 46269], "id": [233, 234]}, "image_id": 180}
+{"file_name": "train/181.png", "objects": {"bbox": [[547, 229, 262, 145], [1389, 231, 338, 184]], "categories": [3, 3], "area": [37990, 62192], "id": [235, 236]}, "image_id": 181}
+{"file_name": "train/195.png", "objects": {"bbox": [[1629, 375, 151, 114], [1678, 505, 122, 121]], "categories": [3, 3], "area": [17214, 14762], "id": [237, 238]}, "image_id": 195}
+{"file_name": "test/142.png", "objects": {"bbox": [[874, 483, 161, 146], [166, 250, 299, 128]], "categories": [3, 3], "area": [23506, 38272], "id": [239, 240]}, "image_id": 142}
+{"file_name": "train/156.png", "objects": {"bbox": [[329, 269, 316, 146], [1397, 673, 360, 203]], "categories": [3, 3], "area": [46136, 73080], "id": [241, 242]}, "image_id": 156}
+{"file_name": "train/168.png", "objects": {"bbox": [[735, 219, 288, 181], [1458, 240, 347, 184]], "categories": [3, 3], "area": [52128, 63848], "id": [243, 244]}, "image_id": 168}
+{"file_name": "train/140.png", "objects": {"bbox": [[125, 476, 225, 141]], "categories": [3], "area": [31725], "id": [245]}, "image_id": 140}
+{"file_name": "train/154.png", "objects": {"bbox": [[657, 518, 217, 130]], "categories": [3], "area": [28210], "id": [246]}, "image_id": 154}
+{"file_name": "train/183.png", "objects": {"bbox": [[959, 555, 146, 147], [857, 651, 161, 165], [1221, 648, 137, 185]], "categories": [3, 3, 3], "area": [21462, 26565, 25345], "id": [247, 248, 249]}, "image_id": 183}
+{"file_name": "train/182.png", "objects": {"bbox": [[809, 423, 211, 155], [615, 625, 144, 161], [948, 630, 155, 158]], "categories": [3, 3, 3], "area": [32705, 23184, 24490], "id": [250, 251, 252]}, "image_id": 182}
+{"file_name": "train/155.png", "objects": {"bbox": [[148, 679, 347, 134]], "categories": [3], "area": [46498], "id": [253]}, "image_id": 155}
+{"file_name": "train/141.png", "objects": {"bbox": [[607, 479, 231, 131]], "categories": [3], "area": [30261], "id": [254]}, "image_id": 141}
+{"file_name": "train/169.png", "objects": {"bbox": [[1100, 223, 314, 193]], "categories": [3], "area": [60602], "id": [255]}, "image_id": 169}
+{"file_name": "train/145.png", "objects": {"bbox": [[1576, 407, 169, 144], [1270, 689, 240, 134]], "categories": [3, 3], "area": [24336, 32160], "id": [256, 257]}, "image_id": 145}
+{"file_name": "train/151.png", "objects": {"bbox": [[742, 401, 166, 158], [1402, 676, 161, 149], [1675, 445, 155, 152]], "categories": [3, 3, 3], "area": [26228, 23989, 23560], "id": [258, 259, 260]}, "image_id": 151}
+{"file_name": "train/179.png", "objects": {"bbox": [[639, 221, 326, 177]], "categories": [3], "area": [57702], "id": [261]}, "image_id": 179}
+{"file_name": "train/186.png", "objects": {"bbox": [[405, 593, 246, 189]], "categories": [3], "area": [46494], "id": [262]}, "image_id": 186}
+{"file_name": "train/192.png", "objects": {"bbox": [[891, 338, 158, 140], [920, 483, 165, 119], [1470, 440, 158, 157]], "categories": [3, 3, 3], "area": [22120, 19635, 24806], "id": [263, 264, 265]}, "image_id": 192}
+{"file_name": "train/193.png", "objects": {"bbox": [[1262, 381, 149, 107], [1290, 490, 138, 118]], "categories": [3, 3], "area": [15943, 16284], "id": [266, 267]}, "image_id": 193}
+{"file_name": "train/187.png", "objects": {"bbox": [[791, 589, 246, 213]], "categories": [3], "area": [52398], "id": [268]}, "image_id": 187}
+{"file_name": "test/178.png", "objects": {"bbox": [[278, 230, 307, 166], [1514, 506, 327, 203], [1425, 677, 378, 142]], "categories": [3, 3, 3], "area": [50962, 66381, 53676], "id": [269, 270, 271]}, "image_id": 178}
+{"file_name": "train/150.png", "objects": {"bbox": [[168, 415, 172, 131], [1115, 456, 150, 131], [828, 600, 173, 194]], "categories": [3, 3, 3], "area": [22532, 19650, 33562], "id": [272, 273, 274]}, "image_id": 150}
+{"file_name": "train/144.png", "objects": {"bbox": [[669, 353, 178, 233], [436, 679, 253, 115], [1421, 255, 244, 158]], "categories": [3, 3, 3], "area": [41474, 29095, 38552], "id": [275, 276, 277]}, "image_id": 144}
+{"file_name": "train/152.png", "objects": {"bbox": [[1374, 425, 172, 118]], "categories": [3], "area": [20296], "id": [278]}, "image_id": 152}
+{"file_name": "test/146.png", "objects": {"bbox": [[545, 255, 284, 253], [97, 287, 174, 163]], "categories": [3, 3], "area": [71852, 28362], "id": [279, 280]}, "image_id": 146}
+{"file_name": "train/191.png", "objects": {"bbox": [[497, 345, 146, 123], [522, 467, 129, 133], [1055, 450, 146, 140]], "categories": [3, 3, 3], "area": [17958, 17157, 20440], "id": [281, 282, 283]}, "image_id": 191}
+{"file_name": "train/185.png", "objects": {"bbox": [[194, 564, 190, 218]], "categories": [3], "area": [41420], "id": [284]}, "image_id": 185}
+{"file_name": "train/184.png", "objects": {"bbox": [[1629, 555, 164, 150], [1727, 695, 103, 140], [1572, 689, 140, 129]], "categories": [3, 3, 3], "area": [24600, 14420, 18060], "id": [285, 286, 287]}, "image_id": 184}
+{"file_name": "train/190.png", "objects": {"bbox": [[747, 427, 183, 164], [191, 358, 148, 98], [222, 453, 142, 134]], "categories": [3, 3, 3], "area": [30012, 14504, 19028], "id": [288, 289, 290]}, "image_id": 190}
+{"file_name": "train/147.png", "objects": {"bbox": [[449, 279, 181, 183], [900, 250, 284, 264]], "categories": [3, 3], "area": [33123, 74976], "id": [291, 292]}, "image_id": 147}
+{"file_name": "train/153.png", "objects": {"bbox": [[230, 461, 170, 144]], "categories": [3], "area": [24480], "id": [293]}, "image_id": 153}
+{"file_name": "train/115.png", "objects": {"bbox": [[700, 348, 293, 154], [141, 620, 268, 208], [1593, 663, 237, 160]], "categories": [4, 4, 4], "area": [45122, 55744, 37920], "id": [294, 295, 296]}, "image_id": 115}
+{"file_name": "test/114.png", "objects": {"bbox": [[130, 338, 288, 210], [1001, 655, 235, 168], [1339, 263, 346, 168]], "categories": [4, 4, 4], "area": [60480, 39480, 58128], "id": [297, 298, 299]}, "image_id": 114}
+{"file_name": "train/128.png", "objects": {"bbox": [[1509, 239, 303, 188]], "categories": [4], "area": [56964], "id": [300]}, "image_id": 128}
+{"file_name": "test/102.png", "objects": {"bbox": [[152, 350, 252, 264]], "categories": [4], "area": [66528], "id": [301]}, "image_id": 102}
+{"file_name": "train/116.png", "objects": {"bbox": [[391, 638, 311, 194], [957, 349, 336, 157]], "categories": [4, 4], "area": [60334, 52752], "id": [302, 303]}, "image_id": 116}
+{"file_name": "train/117.png", "objects": {"bbox": [[107, 590, 254, 194], [1463, 661, 300, 171]], "categories": [4, 4], "area": [49276, 51300], "id": [304, 305]}, "image_id": 117}
+{"file_name": "train/103.png", "objects": {"bbox": [[912, 356, 317, 245], [176, 237, 307, 173]], "categories": [4, 4], "area": [77665, 53111], "id": [306, 307]}, "image_id": 103}
+{"file_name": "train/107.png", "objects": {"bbox": [[634, 667, 316, 130]], "categories": [4], "area": [41080], "id": [308]}, "image_id": 107}
+{"file_name": "train/113.png", "objects": {"bbox": [[353, 619, 292, 187], [709, 265, 370, 174], [1596, 254, 149, 266]], "categories": [4, 4, 4], "area": [54604, 64380, 39634], "id": [309, 310, 311]}, "image_id": 113}
+{"file_name": "train/112.png", "objects": {"bbox": [[1028, 259, 201, 292], [175, 250, 324, 171]], "categories": [4, 4], "area": [58692, 55404], "id": [312, 313]}, "image_id": 112}
+{"file_name": "train/106.png", "objects": {"bbox": [[192, 373, 253, 290], [1446, 237, 316, 250]], "categories": [4, 4], "area": [73370, 79000], "id": [314, 315]}, "image_id": 106}
+{"file_name": "train/110.png", "objects": {"bbox": [[1199, 660, 270, 148]], "categories": [4], "area": [39960], "id": [316]}, "image_id": 110}
+{"file_name": "train/104.png", "objects": {"bbox": [[1427, 349, 298, 246], [647, 253, 292, 141], [78, 408, 218, 193]], "categories": [4, 4, 4], "area": [73308, 41172, 42074], "id": [317, 318, 319]}, "image_id": 104}
+{"file_name": "train/105.png", "objects": {"bbox": [[310, 356, 266, 235], [889, 249, 305, 154]], "categories": [4, 4], "area": [62510, 46970], "id": [320, 321]}, "image_id": 105}
+{"file_name": "train/111.png", "objects": {"bbox": [[339, 240, 259, 219]], "categories": [4], "area": [56721], "id": [322]}, "image_id": 111}
+{"file_name": "train/108.png", "objects": {"bbox": [[268, 426, 202, 237]], "categories": [4], "area": [47874], "id": [323]}, "image_id": 108}
+{"file_name": "train/120.png", "objects": {"bbox": [[242, 239, 287, 199], [1476, 346, 295, 165]], "categories": [4, 4], "area": [57113, 48675], "id": [324, 325]}, "image_id": 120}
+{"file_name": "train/121.png", "objects": {"bbox": [[788, 250, 299, 163]], "categories": [4], "area": [48737], "id": [326]}, "image_id": 121}
+{"file_name": "train/109.png", "objects": {"bbox": [[778, 661, 306, 165]], "categories": [4], "area": [50490], "id": [327]}, "image_id": 109}
+{"file_name": "train/123.png", "objects": {"bbox": [[482, 402, 228, 235]], "categories": [4], "area": [53580], "id": [328]}, "image_id": 123}
+{"file_name": "train/122.png", "objects": {"bbox": [[73, 386, 185, 256], [1513, 271, 301, 142]], "categories": [4, 4], "area": [47360, 42742], "id": [329, 330]}, "image_id": 122}
+{"file_name": "train/126.png", "objects": {"bbox": [[808, 242, 293, 172], [1611, 274, 207, 186]], "categories": [4, 4], "area": [50396, 38502], "id": [331, 332]}, "image_id": 126}
+{"file_name": "train/127.png", "objects": {"bbox": [[1133, 235, 277, 183]], "categories": [4], "area": [50691], "id": [333]}, "image_id": 127}
+{"file_name": "train/125.png", "objects": {"bbox": [[557, 229, 276, 174], [1314, 234, 255, 203]], "categories": [4, 4], "area": [48024, 51765], "id": [334, 335]}, "image_id": 125}
+{"file_name": "train/119.png", "objects": {"bbox": [[595, 324, 286, 206]], "categories": [4], "area": [58916], "id": [336]}, "image_id": 119}
+{"file_name": "train/118.png", "objects": {"bbox": [[1168, 618, 266, 186]], "categories": [4], "area": [49476], "id": [337]}, "image_id": 118}
+{"file_name": "train/124.png", "objects": {"bbox": [[710, 227, 269, 179], [1390, 382, 242, 265]], "categories": [4, 4], "area": [48151, 64130], "id": [338, 339]}, "image_id": 124}
+{"file_name": "train/88.png", "objects": {"bbox": [[379, 245, 832, 238]], "categories": [6], "area": [198016], "id": [340]}, "image_id": 88}
+{"file_name": "train/77.png", "objects": {"bbox": [[1095, 245, 361, 307]], "categories": [6], "area": [110827], "id": [341]}, "image_id": 77}
+{"file_name": "train/76.png", "objects": {"bbox": [[183, 223, 368, 364], [1234, 285, 563, 404]], "categories": [6, 6], "area": [133952, 227452], "id": [342, 343]}, "image_id": 76}
+{"file_name": "train/89.png", "objects": {"bbox": [[758, 242, 785, 254]], "categories": [6], "area": [199390], "id": [344]}, "image_id": 89}
+{"file_name": "train/74.png", "objects": {"bbox": [[137, 299, 772, 433]], "categories": [6], "area": [334276], "id": [345]}, "image_id": 74}
+{"file_name": "train/75.png", "objects": {"bbox": [[835, 298, 733, 438]], "categories": [6], "area": [321054], "id": [346]}, "image_id": 75}
+{"file_name": "train/65.png", "objects": {"bbox": [[1028, 358, 339, 340], [161, 288, 781, 252]], "categories": [6, 6], "area": [115260, 196812], "id": [347, 348]}, "image_id": 65}
+{"file_name": "train/71.png", "objects": {"bbox": [[490, 349, 260, 194], [1330, 286, 248, 296]], "categories": [6, 6], "area": [50440, 73408], "id": [349, 350]}, "image_id": 71}
+{"file_name": "train/70.png", "objects": {"bbox": [[738, 254, 229, 309], [1529, 594, 307, 219]], "categories": [6, 6], "area": [70761, 67233], "id": [351, 352]}, "image_id": 70}
+{"file_name": "train/64.png", "objects": {"bbox": [[467, 370, 415, 313]], "categories": [6], "area": [129895], "id": [353]}, "image_id": 64}
+{"file_name": "train/99.png", "objects": {"bbox": [[95, 253, 288, 369]], "categories": [6], "area": [106272], "id": [354]}, "image_id": 99}
+{"file_name": "train/72.png", "objects": {"bbox": [[854, 359, 221, 190], [291, 383, 219, 202]], "categories": [6, 6], "area": [41990, 44238], "id": [355, 356]}, "image_id": 72}
+{"file_name": "train/66.png", "objects": {"bbox": [[718, 288, 829, 209]], "categories": [6], "area": [173261], "id": [357]}, "image_id": 66}
+{"file_name": "train/67.png", "objects": {"bbox": [[1182, 273, 619, 279], [136, 591, 395, 210]], "categories": [6, 6], "area": [172701, 82950], "id": [358, 359]}, "image_id": 67}
+{"file_name": "train/73.png", "objects": {"bbox": [[784, 367, 237, 208], [1364, 363, 237, 195]], "categories": [6, 6], "area": [49296, 46215], "id": [360, 361]}, "image_id": 73}
+{"file_name": "train/98.png", "objects": {"bbox": [[866, 344, 803, 225]], "categories": [6], "area": [180675], "id": [362]}, "image_id": 98}
+{"file_name": "train/101.png", "objects": {"bbox": [[1222, 261, 336, 356]], "categories": [6], "area": [119616], "id": [363]}, "image_id": 101}
+{"file_name": "train/100.png", "objects": {"bbox": [[856, 256, 298, 343]], "categories": [6], "area": [102214], "id": [364]}, "image_id": 100}
+{"file_name": "train/95.png", "objects": {"bbox": [[107, 392, 499, 150]], "categories": [6], "area": [74850], "id": [365]}, "image_id": 95}
+{"file_name": "train/81.png", "objects": {"bbox": [[1088, 409, 259, 199], [808, 337, 231, 286]], "categories": [6, 6], "area": [51541, 66066], "id": [366, 367]}, "image_id": 81}
+{"file_name": "train/80.png", "objects": {"bbox": [[495, 412, 223, 190], [1194, 270, 295, 397], [196, 352, 248, 280]], "categories": [6, 6, 6], "area": [42370, 117115, 69440], "id": [368, 369, 370]}, "image_id": 80}
+{"file_name": "train/94.png", "objects": {"bbox": [[639, 283, 396, 311]], "categories": [6], "area": [123156], "id": [371]}, "image_id": 94}
+{"file_name": "train/82.png", "objects": {"bbox": [[1098, 329, 220, 307], [1406, 413, 230, 190], [212, 427, 249, 179]], "categories": [6, 6, 6], "area": [67540, 43700, 44571], "id": [372, 373, 374]}, "image_id": 82}
+{"file_name": "train/96.png", "objects": {"bbox": [[169, 341, 822, 222]], "categories": [6], "area": [182484], "id": [375]}, "image_id": 96}
+{"file_name": "train/69.png", "objects": {"bbox": [[970, 589, 403, 214], [160, 273, 250, 288]], "categories": [6, 6], "area": [86242, 72000], "id": [376, 377]}, "image_id": 69}
+{"file_name": "train/68.png", "objects": {"bbox": [[643, 600, 394, 199]], "categories": [6], "area": [78406], "id": [378]}, "image_id": 68}
+{"file_name": "train/97.png", "objects": {"bbox": [[652, 339, 822, 216]], "categories": [6], "area": [177552], "id": [379]}, "image_id": 97}
+{"file_name": "train/83.png", "objects": {"bbox": [[543, 411, 230, 198], [1428, 344, 220, 280]], "categories": [6, 6], "area": [45540, 61600], "id": [380, 381]}, "image_id": 83}
+{"file_name": "train/87.png", "objects": {"bbox": [[90, 272, 687, 225]], "categories": [6], "area": [154575], "id": [382]}, "image_id": 87}
+{"file_name": "train/93.png", "objects": {"bbox": [[228, 243, 372, 314], [1469, 238, 321, 378]], "categories": [6, 6], "area": [116808, 121338], "id": [383, 384]}, "image_id": 93}
+{"file_name": "train/78.png", "objects": {"bbox": [[133, 288, 240, 382]], "categories": [6], "area": [91680], "id": [385]}, "image_id": 78}
+{"file_name": "train/79.png", "objects": {"bbox": [[863, 287, 314, 374], [162, 410, 235, 171]], "categories": [6, 6], "area": [117436, 40185], "id": [386, 387]}, "image_id": 79}
+{"file_name": "test/92.png", "objects": {"bbox": [[980, 266, 403, 320]], "categories": [6], "area": [128960], "id": [388]}, "image_id": 92}
+{"file_name": "train/86.png", "objects": {"bbox": [[1480, 412, 225, 209]], "categories": [6], "area": [47025], "id": [389]}, "image_id": 86}
+{"file_name": "train/90.png", "objects": {"bbox": [[115, 213, 383, 370]], "categories": [6], "area": [141710], "id": [390]}, "image_id": 90}
+{"file_name": "test/84.png", "objects": {"bbox": [[885, 419, 223, 194]], "categories": [6], "area": [43262], "id": [391]}, "image_id": 84}
+{"file_name": "train/85.png", "objects": {"bbox": [[1156, 432, 222, 177]], "categories": [6], "area": [39294], "id": [392]}, "image_id": 85}
+{"file_name": "train/91.png", "objects": {"bbox": [[383, 250, 414, 310]], "categories": [6], "area": [128340], "id": [393]}, "image_id": 91}
+{"file_name": "train/63.png", "objects": {"bbox": [[1200, 644, 583, 178]], "categories": [7], "area": [103774], "id": [394]}, "image_id": 63}
+{"file_name": "train/62.png", "objects": {"bbox": [[854, 669, 613, 140]], "categories": [7], "area": [85820], "id": [395]}, "image_id": 62}
+{"file_name": "train/60.png", "objects": {"bbox": [[132, 593, 652, 204]], "categories": [7], "area": [133008], "id": [396]}, "image_id": 60}
+{"file_name": "train/48.png", "objects": {"bbox": [[568, 607, 596, 164], [1422, 239, 280, 388]], "categories": [7, 7], "area": [97744, 108640], "id": [397, 398]}, "image_id": 48}
+{"file_name": "train/49.png", "objects": {"bbox": [[244, 269, 381, 230], [653, 651, 663, 153]], "categories": [7, 7], "area": [87630, 101439], "id": [399, 400]}, "image_id": 49}
+{"file_name": "train/61.png", "objects": {"bbox": [[142, 610, 670, 182]], "categories": [7], "area": [121940], "id": [401]}, "image_id": 61}
+{"file_name": "train/59.png", "objects": {"bbox": [[1002, 489, 393, 295], [1375, 579, 379, 244], [104, 636, 387, 152]], "categories": [7, 7, 7], "area": [115935, 92476, 58824], "id": [402, 403, 404]}, "image_id": 59}
+{"file_name": "train/58.png", "objects": {"bbox": [[514, 585, 404, 218], [122, 340, 432, 145]], "categories": [7, 7], "area": [88072, 62640], "id": [405, 406]}, "image_id": 58}
+{"file_name": "train/8.png", "objects": {"bbox": [[138, 286, 613, 506]], "categories": [7], "area": [310178], "id": [407]}, "image_id": 8}
+{"file_name": "train/9.png", "objects": {"bbox": [[878, 250, 667, 538]], "categories": [7], "area": [358846], "id": [408]}, "image_id": 9}
+{"file_name": "train/14.png", "objects": {"bbox": [[703, 343, 820, 205]], "categories": [7], "area": [168100], "id": [409]}, "image_id": 14}
+{"file_name": "train/28.png", "objects": {"bbox": [[935, 612, 413, 202]], "categories": [7], "area": [83426], "id": [410]}, "image_id": 28}
+{"file_name": "test/29.png", "objects": {"bbox": [[1200, 613, 454, 190], [100, 486, 247, 129]], "categories": [7, 7], "area": [86260, 31863], "id": [411, 412]}, "image_id": 29}
+{"file_name": "train/15.png", "objects": {"bbox": [[1028, 349, 759, 216]], "categories": [7], "area": [163944], "id": [413]}, "image_id": 15}
+{"file_name": "train/328.png", "objects": {"bbox": [[1067, 450, 368, 258], [889, 648, 627, 181], [934, 225, 590, 151]], "categories": [7, 7, 7], "area": [94944, 113487, 89090], "id": [414, 415, 416]}, "image_id": 328}
+{"file_name": "train/17.png", "objects": {"bbox": [[560, 600, 609, 188]], "categories": [7], "area": [114492], "id": [417]}, "image_id": 17}
+{"file_name": "train/16.png", "objects": {"bbox": [[201, 488, 684, 189]], "categories": [7], "area": [129276], "id": [418]}, "image_id": 16}
+{"file_name": "train/329.png", "objects": {"bbox": [[770, 367, 398, 148], [644, 242, 619, 144]], "categories": [7, 7], "area": [58904, 89136], "id": [419, 420]}, "image_id": 329}
+{"file_name": "train/12.png", "objects": {"bbox": [[899, 370, 548, 330]], "categories": [7], "area": [180840], "id": [421]}, "image_id": 12}
+{"file_name": "test/13.png", "objects": {"bbox": [[142, 346, 793, 179]], "categories": [7], "area": [141947], "id": [422]}, "image_id": 13}
+{"file_name": "train/338.png", "objects": {"bbox": [[1387, 257, 406, 158]], "categories": [7], "area": [64148], "id": [423]}, "image_id": 338}
+{"file_name": "train/39.png", "objects": {"bbox": [[429, 331, 505, 184]], "categories": [7], "area": [92920], "id": [424]}, "image_id": 39}
+{"file_name": "train/11.png", "objects": {"bbox": [[458, 355, 628, 333]], "categories": [7], "area": [209124], "id": [425]}, "image_id": 11}
+{"file_name": "train/10.png", "objects": {"bbox": [[89, 357, 637, 317]], "categories": [7], "area": [201929], "id": [426]}, "image_id": 10}
+{"file_name": "train/38.png", "objects": {"bbox": [[127, 334, 533, 217], [1535, 709, 291, 116]], "categories": [7, 7], "area": [115661, 33756], "id": [427, 428]}, "image_id": 38}
+{"file_name": "train/336.png", "objects": {"bbox": [[766, 254, 412, 150], [1171, 515, 625, 239]], "categories": [7, 7], "area": [61800, 149375], "id": [429, 430]}, "image_id": 336}
+{"file_name": "train/339.png", "objects": {"bbox": [[1008, 299, 404, 191], [1289, 218, 531, 199]], "categories": [7, 7], "area": [77164, 105669], "id": [431, 432]}, "image_id": 339}
+{"file_name": "train/35.png", "objects": {"bbox": [[1103, 300, 617, 371], [87, 281, 479, 284]], "categories": [7, 7], "area": [228907, 136036], "id": [433, 434]}, "image_id": 35}
+{"file_name": "train/21.png", "objects": {"bbox": [[464, 367, 502, 207]], "categories": [7], "area": [103914], "id": [435]}, "image_id": 21}
+{"file_name": "train/20.png", "objects": {"bbox": [[144, 393, 479, 177]], "categories": [7], "area": [84783], "id": [436]}, "image_id": 20}
+{"file_name": "train/34.png", "objects": {"bbox": [[678, 256, 597, 403], [1598, 643, 230, 157]], "categories": [7, 7], "area": [240591, 36110], "id": [437, 438]}, "image_id": 34}
+{"file_name": "train/323.png", "objects": {"bbox": [[1577, 437, 198, 377], [97, 249, 548, 262]], "categories": [7, 7], "area": [74646, 143576], "id": [439, 440]}, "image_id": 323}
+{"file_name": "train/337.png", "objects": {"bbox": [[1163, 270, 411, 119]], "categories": [7], "area": [48909], "id": [441]}, "image_id": 337}
+{"file_name": "train/335.png", "objects": {"bbox": [[812, 528, 797, 258], [425, 254, 425, 113]], "categories": [7, 7], "area": [205626, 48025], "id": [442, 443]}, "image_id": 335}
+{"file_name": "train/22.png", "objects": {"bbox": [[411, 263, 354, 290], [1205, 415, 541, 133]], "categories": [7, 7], "area": [102660, 71953], "id": [444, 445]}, "image_id": 22}
+{"file_name": "train/36.png", "objects": {"bbox": [[258, 278, 635, 368], [1371, 373, 465, 287]], "categories": [7, 7], "area": [233680, 133455], "id": [446, 447]}, "image_id": 36}
+{"file_name": "train/37.png", "objects": {"bbox": [[1181, 315, 591, 310], [98, 298, 211, 158]], "categories": [7, 7], "area": [183210, 33338], "id": [448, 449]}, "image_id": 37}
+{"file_name": "train/23.png", "objects": {"bbox": [[923, 268, 357, 281]], "categories": [7], "area": [100317], "id": [450]}, "image_id": 23}
+{"file_name": "train/334.png", "objects": {"bbox": [[325, 509, 732, 251], [1217, 675, 414, 143]], "categories": [7, 7], "area": [183732, 59202], "id": [451, 452]}, "image_id": 334}
+{"file_name": "train/324.png", "objects": {"bbox": [[176, 266, 772, 309]], "categories": [7], "area": [238548], "id": [453]}, "image_id": 324}
+{"file_name": "train/330.png", "objects": {"bbox": [[750, 262, 654, 134], [898, 352, 453, 135]], "categories": [7, 7], "area": [87636, 61155], "id": [454, 455]}, "image_id": 330}
+{"file_name": "train/27.png", "objects": {"bbox": [[820, 571, 397, 228]], "categories": [7], "area": [90516], "id": [456]}, "image_id": 27}
+{"file_name": "train/33.png", "objects": {"bbox": [[194, 240, 593, 406], [1141, 604, 681, 184]], "categories": [7, 7], "area": [240758, 125304], "id": [457, 458]}, "image_id": 33}
+{"file_name": "train/32.png", "objects": {"bbox": [[864, 629, 811, 149], [95, 253, 444, 310]], "categories": [7, 7], "area": [120839, 137640], "id": [459, 460]}, "image_id": 32}
+{"file_name": "train/26.png", "objects": {"bbox": [[522, 607, 400, 164]], "categories": [7], "area": [65600], "id": [461]}, "image_id": 26}
+{"file_name": "train/331.png", "objects": {"bbox": [[1061, 268, 653, 122], [1218, 370, 390, 100]], "categories": [7, 7], "area": [79666, 39000], "id": [462, 463]}, "image_id": 331}
+{"file_name": "train/325.png", "objects": {"bbox": [[654, 254, 748, 332], [85, 213, 415, 408]], "categories": [7, 7], "area": [248336, 169320], "id": [464, 465]}, "image_id": 325}
+{"file_name": "train/333.png", "objects": {"bbox": [[317, 663, 420, 145]], "categories": [7], "area": [60900], "id": [466]}, "image_id": 333}
+{"file_name": "train/327.png", "objects": {"bbox": [[546, 701, 624, 98], [761, 410, 280, 324], [562, 260, 600, 129]], "categories": [7, 7, 7], "area": [61152, 90720, 77400], "id": [467, 468, 469]}, "image_id": 327}
+{"file_name": "train/18.png", "objects": {"bbox": [[1059, 652, 624, 116]], "categories": [7], "area": [72384], "id": [470]}, "image_id": 18}
+{"file_name": "train/30.png", "objects": {"bbox": [[97, 606, 624, 143], [1588, 671, 241, 143]], "categories": [7, 7], "area": [89232, 34463], "id": [471, 472]}, "image_id": 30}
+{"file_name": "test/24.png", "objects": {"bbox": [[1278, 245, 384, 347]], "categories": [7], "area": [133248], "id": [473]}, "image_id": 24}
+{"file_name": "train/25.png", "objects": {"bbox": [[166, 600, 443, 210]], "categories": [7], "area": [93030], "id": [474]}, "image_id": 25}
+{"file_name": "train/31.png", "objects": {"bbox": [[421, 645, 773, 119]], "categories": [7], "area": [91987], "id": [475]}, "image_id": 31}
+{"file_name": "train/19.png", "objects": {"bbox": [[696, 653, 619, 172]], "categories": [7], "area": [106468], "id": [476]}, "image_id": 19}
+{"file_name": "train/326.png", "objects": {"bbox": [[954, 244, 439, 403], [81, 247, 343, 91]], "categories": [7, 7], "area": [176917, 31213], "id": [477, 478]}, "image_id": 326}
+{"file_name": "train/332.png", "objects": {"bbox": [[99, 651, 335, 141], [1538, 277, 278, 94]], "categories": [7, 7], "area": [47235, 26132], "id": [479, 480]}, "image_id": 332}
+{"file_name": "train/4.png", "objects": {"bbox": [[135, 400, 439, 275]], "categories": [7], "area": [120725], "id": [481]}, "image_id": 4}
+{"file_name": "train/56.png", "objects": {"bbox": [[1163, 225, 469, 324]], "categories": [7], "area": [151956], "id": [482]}, "image_id": 56}
+{"file_name": "train/42.png", "objects": {"bbox": [[1206, 342, 558, 234], [409, 520, 388, 298]], "categories": [7, 7], "area": [130572, 115624], "id": [483, 484]}, "image_id": 42}
+{"file_name": "train/43.png", "objects": {"bbox": [[599, 534, 418, 283], [1439, 406, 381, 184]], "categories": [7, 7], "area": [118294, 70104], "id": [485, 486]}, "image_id": 43}
+{"file_name": "train/5.png", "objects": {"bbox": [[436, 496, 386, 308]], "categories": [7], "area": [118888], "id": [487]}, "image_id": 5}
+{"file_name": "train/57.png", "objects": {"bbox": [[131, 573, 440, 238]], "categories": [7], "area": [104720], "id": [488]}, "image_id": 57}
+{"file_name": "train/41.png", "objects": {"bbox": [[947, 335, 549, 235], [122, 520, 418, 273]], "categories": [7, 7], "area": [129015, 114114], "id": [489, 490]}, "image_id": 41}
+{"file_name": "train/55.png", "objects": {"bbox": [[220, 242, 387, 306], [1558, 429, 271, 189]], "categories": [7, 7], "area": [118422, 51219], "id": [491, 492]}, "image_id": 55}
+{"file_name": "train/7.png", "objects": {"bbox": [[1310, 379, 312, 364]], "categories": [7], "area": [113568], "id": [493]}, "image_id": 7}
+{"file_name": "train/54.png", "objects": {"bbox": [[900, 267, 820, 142], [287, 447, 255, 137]], "categories": [7, 7], "area": [116440, 34935], "id": [494, 495]}, "image_id": 54}
+{"file_name": "train/6.png", "objects": {"bbox": [[1092, 624, 450, 193]], "categories": [7], "area": [86850], "id": [496]}, "image_id": 6}
+{"file_name": "train/40.png", "objects": {"bbox": [[706, 325, 538, 210], [94, 428, 163, 179]], "categories": [7, 7], "area": [112980, 29177], "id": [497, 498]}, "image_id": 40}
+{"file_name": "train/44.png", "objects": {"bbox": [[812, 525, 408, 278]], "categories": [7], "area": [113424], "id": [499]}, "image_id": 44}
+{"file_name": "train/2.png", "objects": {"bbox": [[840, 452, 662, 201]], "categories": [7], "area": [133062], "id": [500]}, "image_id": 2}
+{"file_name": "train/50.png", "objects": {"bbox": [[706, 264, 407, 310], [819, 652, 610, 149]], "categories": [7, 7], "area": [126170, 90890], "id": [501, 502]}, "image_id": 50}
+{"file_name": "train/3.png", "objects": {"bbox": [[1092, 468, 603, 166]], "categories": [7], "area": [100098], "id": [503]}, "image_id": 3}
+{"file_name": "train/51.png", "objects": {"bbox": [[144, 293, 595, 220]], "categories": [7], "area": [130900], "id": [504]}, "image_id": 51}
+{"file_name": "test/45.png", "objects": {"bbox": [[1099, 538, 400, 263]], "categories": [7], "area": [105200], "id": [505]}, "image_id": 45}
+{"file_name": "test/53.png", "objects": {"bbox": [[198, 237, 733, 170]], "categories": [7], "area": [124610], "id": [506]}, "image_id": 53}
+{"file_name": "train/1.png", "objects": {"bbox": [[614, 464, 620, 161]], "categories": [7], "area": [99820], "id": [507]}, "image_id": 1}
+{"file_name": "train/47.png", "objects": {"bbox": [[933, 250, 246, 386], [93, 243, 488, 327]], "categories": [7, 7], "area": [94956, 159576], "id": [508, 509]}, "image_id": 47}
+{"file_name": "train/46.png", "objects": {"bbox": [[153, 227, 220, 395]], "categories": [7], "area": [86900], "id": [510]}, "image_id": 46}
+{"file_name": "train/52.png", "objects": {"bbox": [[777, 322, 613, 223]], "categories": [7], "area": [136699], "id": [511]}, "image_id": 52}
+{"file_name": "train/0.png", "objects": {"bbox": [[158, 458, 620, 157]], "categories": [7], "area": [97340], "id": [512]}, "image_id": 0}
